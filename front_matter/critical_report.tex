@@ -1,0 +1,47 @@
+\documentclass[changelog=false,tocdir=\tocdir,tocstyle=none]{ees}
+
+\usepackage{mfirstuc}
+\usepackage{multicol}
+
+\firstname{František Ignác Antonín}
+\lastname{Tůma}
+\shortname{\rlap{\hspace{.85em}°}Tuma}
+\shorttitle{Proprium missæ}
+
+\ifthenelse{\isundefined{\MetadataFestival}}{%
+  \subtitle{%
+    \xmakefirstuc{\MetadataGenre}\\%
+    \MetadataSubtitle%
+  }%
+}{%
+  \subtitle{%
+    \xmakefirstuc{\MetadataGenre}~(\MetadataFestival)\\%
+    \MetadataSubtitle%
+  }%
+}%
+
+
+\begin{document}
+
+\eesTitlePage
+
+\makeatletter%
+  \ifthenelse{\isundefined{\MetadataToe}}{\ees@toefalse}{}%
+\makeatother%
+\eesCriticalReport{\csname MetadataToe\endcsname}
+\makeatletter%
+  \ees@toetrue%
+\makeatother
+
+\ifthenelse{\isundefined{\MetadataLyrics}}{}{%
+  \ifPrintFrontMatter%
+    \section{Lyrics}%
+    \MetadataLyrics%
+  \fi%
+}
+
+\eesToc{}
+
+\eesScore
+
+\end{document}
