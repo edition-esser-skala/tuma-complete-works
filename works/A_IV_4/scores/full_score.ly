@@ -6,7 +6,7 @@
 
 \book {
   \bookpart {
-    \section "xxx" ""
+    \section "A.IV.4" "O magnum mysterium"
     \addTocEntry
     \paper { indent = 3\cm }
     \score { %\articulate
@@ -14,11 +14,11 @@
         \new StaffGroup <<
           \new Staff {
             \set Staff.instrumentName = "Cornetto"
-            \xxxCornetto
+            \AIVivCornetto
           }
           \new Staff {
             \set Staff.instrumentName = "Fagotto"
-            \xxxFagotto
+            \AIVivFagotto
           }
         >>
         \new StaffGroup <<
@@ -26,11 +26,11 @@
             \set GrandStaff.instrumentName = "Trombone"
             \new Staff {
               \set Staff.instrumentName = "I"
-              \xxxTromboneI
+              \AIVivTromboneI
             }
             \new Staff {
               \set Staff.instrumentName = "II"
-              \xxxTromboneII
+              \AIVivTromboneII
             }
           >>
         >>
@@ -39,50 +39,50 @@
             \set GrandStaff.instrumentName = "Violino"
             \new Staff {
               \set Staff.instrumentName = "I"
-              \xxxViolinoI
+              \AIVivViolinoI
             }
             \new Staff {
               \set Staff.instrumentName = "II"
-              \xxxViolinoII
+              \AIVivViolinoII
             }
           >>
         >>
         \new ChoirStaff <<
           \new Staff {
             \incipitSoprano
-            \new Voice = "Soprano" { \dynamicUp \xxxSoprano }
+            \new Voice = "Soprano" { \dynamicUp \AIVivSoprano }
           }
-          \new Lyrics \lyricsto Soprano \xxxSopranoLyrics
+          \new Lyrics \lyricsto Soprano \AIVivSopranoLyrics
 
           \new Staff {
             \incipitAlto
-            \new Voice = "Alto" { \dynamicUp \xxxAlto }
+            \new Voice = "Alto" { \dynamicUp \AIVivAlto }
           }
-          \new Lyrics \lyricsto Alto \xxxAltoLyrics
+          \new Lyrics \lyricsto Alto \AIVivAltoLyrics
 
           \new Staff {
             \incipitTenore
-            \new Voice = "Tenore" { \dynamicUp \xxxTenore }
+            \new Voice = "Tenore" { \dynamicUp \AIVivTenore }
           }
-          \new Lyrics \lyricsto Tenore \xxxTenoreLyrics
+          \new Lyrics \lyricsto Tenore \AIVivTenoreLyrics
 
           \new Staff {
             \set Staff.instrumentName = "Basso"
-            \new Voice = "Basso" { \dynamicUp \xxxBasso }
+            \new Voice = "Basso" { \dynamicUp \AIVivBasso }
           }
-          \new Lyrics \lyricsto Basso \xxxBassoLyrics
+          \new Lyrics \lyricsto Basso \AIVivBassoLyrics
         >>
         \new StaffGroup <<
           \new Staff {
             \set Staff.instrumentName = \markup \center-column { "Organo" "e Bassi" }
             % \transpose c c,
-            \xxxOrgano
+            \AIVivOrgano
           }
         >>
-        \new FiguredBass { \xxxBassFigures }
+        \new FiguredBass { \AIVivBassFigures }
       >>
       \layout { }
-      \midi { \tempo 4 = 90 }
+      \midi { \tempo 4 = 60 } % 100 – 60 – 90 – 120
     }
   }
 }
