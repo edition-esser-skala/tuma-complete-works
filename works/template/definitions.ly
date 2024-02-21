@@ -1,12 +1,11 @@
-\version "2.24.0"
+\version "2.24.2"
 
 tempoxxx = \tempoMarkup "Allegro moderato"
 
-\include "notes/cor1.ly"
-\include "notes/cor2.ly"
-\include "notes/clno1.ly"
-\include "notes/clno2.ly"
-\include "notes/timp.ly"
+\include "notes/cnto.ly"
+\include "notes/fag.ly"
+\include "notes/trb1.ly"
+\include "notes/trb2.ly"
 \include "notes/vl1.ly"
 \include "notes/vl2.ly"
 \include "notes/S.ly"
