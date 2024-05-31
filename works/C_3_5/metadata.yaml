@@ -1,0 +1,30 @@
+title: Bonum est confiteri
+subtitle: Motetto per ogni tempo
+id: TumW C.3.5
+genre: motet
+scoring: A (solo), 2 vl, vla, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15705
+    date: 1746
+    url: https://data.onb.ac.at/rec/AC14297600
+    license: public domain
+    principal: true
+    notes: parts for A solo, vl 1 (2×), vl 2 (2×), vla, vlc, vlne, org, and maestro di cappella
+parts:
+  A_solo: Alto solo
+toe: |
+  10–78 & – & The \textit{da capo} of bars 19–53 is written out in \B1. \\
+lyrics:
+  Bonum est confiteri Domino\\
+  et psallere nomini tuo, Altissime!\\
+  Ad annunciandum mane misericordiam tuam,\\
+  et veritatem tuam per noctem.\\[1ex]
+  Quam magnificata sunt opera tua Domine.\\
+  Nimis profundae factae sunt tuae cogitationes.\\[1ex]
+  Quia delectasti me Domine in factura tua.\\
+  In operibus manuum tuarum exultabo.\\[1ex]
+  Amen.\\[1ex]
+  (\bibleverse{Ps}(92/91:2,3,5,6))
