@@ -9,6 +9,7 @@
 - works (sorted by TumW numbers, including name of original repository and release history):
   - D.2.6 *De profundis* (tuma-de-profundis-et-memento; v1.0.0, 2022-11-22)
   - D.2.7 *De profundis* (tuma-de-profundis; v1.0.0, 2022-11-04)
+  - D.2.8 *Dixit Dominus* (tuma-dixit-dominus-A-Wn-Mus-Hs-15680; v1.0.0, 2022-12-10)
   - D.2.16 *Memento* (tuma-de-profundis-et-memento; v1.0.0, 2022-11-22)
   - C.3.4 *O magnum mysterium* (tuma-o-magnum-mysterium; v1.0.0, 2022-07-21)
   - C.3.5 *Bonum est confiteri* (tuma-bonum-est-confiteri; v1.0.0, 2022-11-01)4

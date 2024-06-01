@@ -1,0 +1,36 @@
+title: Dixit Dominus
+id: TumW D.2.8
+genre: psalm
+scoring: S, A, T, B (solo), S, A, T, B (coro), cnto, fag,\\2 clno (C), 2 trb, timp (C–G), 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15680
+    rism: 600137127
+    date: 1753
+    url: https://data.onb.ac.at/rec/AC14297574
+    license: public domain
+    principal: true
+    notes: 21 parts (S solo, A solo, T solo, B solo, S rip, A rip, T rip, B rip, cnto, fag, clno 1, clno 2, trb 1, trb 2, timp, vl 1, vl 2, vlc, vlne, org, maestro di cappella)
+imslp: Dixit_Dominus_(A-Wn_Mus.Hs.15680)_(Tůma,_František_Ignác_Antonín)
+parts:
+  ottoni: Clarino I, II in C\\Timpani in C–G
+lyrics: |
+  Dixit Dominus Domino meo:\\
+  Sede a dextris meis, donec ponam inimicos tuos,\\
+  scabellum pedum tuorum.\\
+  Virgam virtutis tuae emittet Dominus ex Sion:\\
+  Dominare in medio inimicorum tuorum.\\
+  Tecum principium in die virtutis tuae in splendoribus sanctorum,\\
+  ex utero ante luciferum genui te.\\
+  Iuravit Dominus et non poenitebit eum:\\
+  Tu es sacerdos in aeternum secundum ordinem Melchisedech.\\
+  Dominus a dextris tuis, confregit in die irae suae reges.\\
+  Iudicabit in nationibus, implebit ruinas,\\
+  conquassabit capita in terra multorum.\\
+  De torrente in via bibet, propterea exaltabit caput.\\
+  Gloria Patri et Filio et Spiritui Sancto,\\
+  sicut erat in principio et nunc et semper\\
+  et in saecula saeculorum, amen.\\
+  (\bibleverse{Ps}(110/109:))
