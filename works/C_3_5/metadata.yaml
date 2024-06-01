@@ -13,7 +13,8 @@ sources:
     url: https://data.onb.ac.at/rec/AC14297600
     license: public domain
     principal: true
-    notes: parts for A solo, vl 1 (2×), vl 2 (2×), vla, vlc, vlne, org, and maestro di cappella
+    notes: 10 parts (A solo, vl 1 (2×), vl 2 (2×), vla, vlc, vlne, org, maestro di cappella)
+imslp: Bonum_est_confiteri_(Tůma,_František_Ignác_Antonín)
 parts:
   A_solo: Alto solo
 toe: |

@@ -13,6 +13,8 @@ sources:
     url: https://data.onb.ac.at/rec/AC14297615
     license: public domain
     principal: true
+    notes: 18 parts (S solo, A solo, T solo, B solo, S rip, A rip, T rip, B rip, cnto, fag, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella)
+imslp: O_magnum_mysterium_(Tůma,_František_Ignác_Antonín)
 toe: |
   106  & B             & 2nd \quarterNote\ in \B1: d16–c16–B8 \\
   109f & vl            & grace notes missing in \B1 \\*
