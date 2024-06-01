@@ -1,4 +1,4 @@
-\version "2.22.0"
+\version "2.24.2"
 
 D-II-VIOrgano = {
   \relative c {
@@ -81,4 +81,3 @@ D-II-VIBassFigures = \figuremode {
   <4>4 <_+>2. %35
   r2 <_!> %36 finis
 }
-
