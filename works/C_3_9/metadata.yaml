@@ -1,0 +1,35 @@
+title: Per labra nectar bibitur
+subtitle: "Motettum de B: V: M:"
+id: TumW C.3.9
+genre: motet
+scoring: A (solo), vl, vla, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15709
+    rism: 600139027
+    date: 1748
+    url: https://data.onb.ac.at/rec/AC14297604
+    license: public domain
+    principal: true
+    notes: 7 parts (A solo, vl, vla, vlc, vlne, org, maestro di cappella)
+imslp: Per_labra_nectar_bibitur_(Tůma,_František_Ignác_Antonín)
+toe: |
+  – & vl, vla & The rhythm 16.–64–64 is written
+                as 16.–32–16 throughout \B1. \\
+parts:
+  A_solo: Alto solo
+lyrics:
+  Per labra nectar bibitur,\\
+  cordique vox alliditur,\\
+  Maria, quinque litteris\\
+  in cor meum dum mitteris.\\
+  Cum nomen hoc reduplico,\\
+  Maria amare supplico,\\
+  ut me tibi despondeas,\\
+  amare me respondeas.\\[1ex]
+  Si virgo mecum vixeris,\\
+  si cor meum confixeris,\\
+  amore factus ebrius,\\
+  dicam Mariam crebrius.
