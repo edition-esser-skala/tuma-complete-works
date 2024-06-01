@@ -1,0 +1,75 @@
+title: Memento
+id: TumW D.2.16
+genre: psalm
+scoring: S, A, T, B (coro), cnto, fag, 2 trb, 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15724
+    rism: 600137260
+    date: 1746
+    url: https://data.onb.ac.at/rec/AC14297572
+    license: public domain
+    principal: true
+    notes: 18 parts (S solo, A solo, T solo, B solo, S rip, A rip, T rip, B rip, cnto, fag, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella)
+  B2:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15700
+    rism: 600138995
+    date: 1746
+    url: https://data.onb.ac.at/rec/AC14297594
+    license: public domain
+    notes: 14 parts (S rip, A rip, T rip, B rip, cnto, fag, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella)
+imslp: De_profundis_et_Memento_(Tůma,_František_Ignác_Antonín)
+toe: |
+  3  & vl 2  & 4th \quarterNote\ in \B1: a′4 \\
+  6f & org   & notes in treble clef missing in \B1 \\
+  7  & vl 2  & 4th \eighthNote\ in \B1: f′8 \\
+  15 & cnto  & 4th \quarterNote\ in \B1: d″4 \\
+  20 & trb 2 & 2nd/3rd \quarterNote\ in \B1: c′4–c′4 \\
+lyrics:
+  \begin{multicols}{2}
+  Memento, Domine, David\\
+  et omnis mansuetudinis eius,\\
+  sicut iuravit Domino,\\
+  votum vovit Deo Iacob:\\
+  Si introiero in tabernaculum domus meae,\\
+  si ascendero in lectum strati mei,\\
+  si dedero requiem temporibus meis,\\
+  si dedero somnum oculis meis,\\
+  et palpebris dormitationem,\\
+  donec inveniam locum Domino,\\
+  tabernaculum Deo Iacob.\\
+  Ecce audivimus eam in Ephratha,\\
+  invenimus eam in campis sylvae.\\
+  Introibimus in tabernaculum eius,\\
+  adorabimus in loco ubi steterunt pedes nostri.\\
+  Surge, Domine, in requiem tuam,\\
+  tu et arca sanctificationis tuae.\\
+  Sacerdotes eius induantur iustitiam,\\
+  et sancti eius exultent.\\
+  Propter David servum tuum\\
+  non avertas faciem christi tui.\\
+  Iuravit Dominus veritatem\\
+  et non frustrabitur eam:\\
+  De fructu ventris tui\\
+  ponam super sedem tuam.\\
+  Si custodierint filii tui testamentum meum\\
+  et testimonia mea, quae docebo eos,\\
+  et filii eorum usque in saeculum\\
+  sedebunt super sedem tuam.\\
+  Quoniam elegit Dominus Sion,\\
+  elegit eam in habitationem sibi:\\
+  Haec requies mea in saeculum saeculi,\\
+  hic habitabo, quoniam elegi eam.\\
+  Viduam eius benedicens benedicam,\\
+  pauperes eius saturabo panibus.\\
+  Sacerdotes eius induam salutari,\\
+  et sancti eius exultatione exultabunt.\\
+  Illuc producam cornu David,\\
+  parabo lucernam christo meo.\\
+  Inimicos eius induam confusione,\\
+  super ipsum autem efflorebit sanctificatio mea.\\
+  (\bibleverse{Ps}(132/131:))
+  \end{multicols}
