@@ -1,0 +1,36 @@
+title: De profundis
+id: TumW D.2.6
+genre: psalm
+scoring: S, T, B (solo), S, A, T, B (coro), cnto, fag, 2 trb, 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15724
+    rism: 600137260
+    date: 1746
+    url: https://data.onb.ac.at/rec/AC14297572
+    license: public domain
+    principal: true
+    notes: 18 parts (S solo, A solo, T solo, B solo, S rip, A rip, T rip, B rip, cnto, fag, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella)
+imslp: De_profundis_et_Memento_(Tůma,_František_Ignác_Antonín)
+toe: |
+  9  & trb 1 & 6th/7th \eighthNote\ in \B1: g′8–g′8 \\
+lyrics:
+  De profundis clamavi ad te, Domine;\\
+  Domine, exaudi orationem meam.\\
+  Fiant aures tuae intendentes\\
+  in vocem deprecationis meae.\\
+  Si iniquitates observaveris, Domine,\\
+  Domine, quis sustinebit?\\
+  Quia apud te propitiatio est,\\
+  et propter legem tuam sustinui te, Domine.\\
+  Sustinuit anima mea in verbum eius,\\
+  speravit anima mea in Domino.\\
+  A custodia matutina usque ad noctem\\
+  speret Israel in Domino,\\
+  quia apud Dominum misericordia,\\
+  et copiosa apud eum redemptio.\\
+  Et ipse redimet Israel\\
+  ex omnibus iniquitatibus eius.\\
+  (\bibleverse{Ps}(130/129:))
