@@ -16,18 +16,16 @@
             \set Staff.instrumentName = "Cornetto"
             \C-III-VIICornetto
           }
-          \new StaffGroup <<
-            \new GrandStaff \with { \smallGroupDistance } <<
-              \set GrandStaff.instrumentName = "Trombone"
-              \new Staff {
-                \set Staff.instrumentName = "I"
-                \C-III-VIITromboneI
-              }
-              \new Staff {
-                \set Staff.instrumentName = "II"
-                \C-III-VIITromboneII
-              }
-            >>
+          \new GrandStaff \with { \smallGroupDistance } <<
+            \set GrandStaff.instrumentName = "Trombone"
+            \new Staff {
+              \set Staff.instrumentName = "I"
+              \C-III-VIITromboneI
+            }
+            \new Staff {
+              \set Staff.instrumentName = "II"
+              \C-III-VIITromboneII
+            }
           >>
           \new Staff {
             \set Staff.instrumentName = "Fagotto"
