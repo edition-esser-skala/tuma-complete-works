@@ -8,4 +8,5 @@
 - uses LilyPond 2.24.2 and EES Tools 2023.10.0
 - works (sorted by TumW numbers, including name of original repository and release history):
   - C.3.4 *O magnum mysterium* (tuma-o-magnum-mysterium; v1.0.0, 2022-07-21)
-  - C.3.5 *Bonum est confiteri* (tuma-bonum-est-confiteri; v1.0.0, 2022-11-01)
+  - C.3.5 *Bonum est confiteri* (tuma-bonum-est-confiteri; v1.0.0, 2022-11-01)4
+  - C.3.7 *O quam suavis est* (tuma-o-quam-suavis-est-A-Wn-Mus-Hs-15714; v1.0.0, 2023-03-19)

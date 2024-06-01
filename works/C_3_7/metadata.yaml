@@ -1,0 +1,34 @@
+title: O quam suavis est
+subtitle: Motetto del Santissimo
+id: TumW C.3.7
+genre: motet
+scoring: T (solo), S, A, T, B (coro), cnto, fag, 2 trb, 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15714
+    date: 1744
+    rism: 600138857
+    url: https://data.onb.ac.at/rec/AC14297609
+    license: public domain
+    principal: true
+    notes: 16 parts (T solo, S rip, A rip, T rip, B rip (2×), cnto, fag, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella)
+imslp: O,_quam_suavis_est_(Tůma,_František_Ignác_Antonín)
+toe: |
+  9  & vl 2 & 2nd \sixteenthNote\ in \B1: \sharp d″16 \\
+  38 & B    & last \eighthNote\ in \B1: d8 \\
+  52 & vl 2 & 6th \eighthNote\ in \B1: a′8 \\
+  62 & vl 2 & 1st \quarterNote\ in \B1: b16–c′16–d′8 \\
+lyrics:
+  O! quam suavis est, Domine, spiritus tuus,\\
+  qui ut dulcedinem tuam in filios demonstrares.,\\
+  pane suavissimo de coelo praestito,\\
+  esurientes reples bonis,\\
+  fastidiosos divites dimittis inanes.\\
+  (\bibleverse{Wis}(12:1;16:21))\\[1ex]
+  O salutaris hostia,\\
+  quae coeli pandis ostium:\\
+  bella fremunt hostilia,\\
+  Da robur, fer auxilium.\\[1ex]
+  Alleluia.
