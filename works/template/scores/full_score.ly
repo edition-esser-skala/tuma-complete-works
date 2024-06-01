@@ -12,27 +12,27 @@
     \score { %\articulate
       <<
         \new StaffGroup <<
-          \new Staff {
+          \new Staff \with { \smallStaffDistance } {
             \set Staff.instrumentName = "Cornetto"
             \xxxCornetto
           }
+          \new StaffGroup <<
+            \new GrandStaff \with { \smallGroupDistance } <<
+              \set GrandStaff.instrumentName = "Trombone"
+              \new Staff {
+                \set Staff.instrumentName = "I"
+                \xxxTromboneI
+              }
+              \new Staff {
+                \set Staff.instrumentName = "II"
+                \xxxTromboneII
+              }
+            >>
+          >>
           \new Staff {
             \set Staff.instrumentName = "Fagotto"
             \xxxFagotto
           }
-        >>
-        \new StaffGroup <<
-          \new GrandStaff <<
-            \set GrandStaff.instrumentName = "Trombone"
-            \new Staff {
-              \set Staff.instrumentName = "I"
-              \xxxTromboneI
-            }
-            \new Staff {
-              \set Staff.instrumentName = "II"
-              \xxxTromboneII
-            }
-          >>
         >>
         \new StaffGroup <<
           \new GrandStaff <<
