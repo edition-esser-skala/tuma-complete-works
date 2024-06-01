@@ -1,0 +1,45 @@
+title: De profundis
+id: TumW D.2.7
+genre: psalm
+scoring: S, A, T, B (solo), S, A, T, B (coro), cnto, fag, 2 trb, 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15723
+    rism: 600137268
+    date: 1743
+    url: https://data.onb.ac.at/rec/AC14297571
+    license: public domain
+    principal: true
+    notes: 22 parts (S solo, A solo, T solo, B solo, S rip (2×), A rip (2×), T rip (2×), B rip (2×), cnto, fag, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella)
+  D1:
+    siglum: D-Dl
+    shelfmark: Mus.2968-E-500
+    rism: 1001001788
+    date: 1890–1910
+    url: https://digital.slub-dresden.de/id480932956
+    license: public domain
+    notes: full score (13 pages), comprising the chorus and a piano reduction
+imslp: De_profundis_(Tůma,_František_Ignác_Antonín)
+toe: |
+  11–13 & fag & 2nd \halfNote\ of bar 11
+                to 1st \halfNote\ of bar 13 in \B1: rests \\
+lyrics:
+  De profundis clamavi ad te, Domine;\\
+  Domine, exaudi vocem meam.\\
+  Fiant aures tuae intendentes\\
+  in vocem deprecationis meae.\\
+  Si iniquitates observaveris, Domine,\\
+  Domine, quis sustinebit?\\
+  Quia apud te propitiatio est;\\
+  et propter legem tuam sustinui te, Domine.\\
+  Sustinuit anima mea in verbum eius;\\
+  speravit anima mea in Domino.\\
+  A custodia matutina usque ad noctem\\
+  speret Israel in Domino,\\
+  quia apud Dominum misericordia,\\
+  et copiosa apud eum redemptio.\\
+  Et ipse redimet Israel\\
+  ex omnibus iniquitatibus eius.\\
+  (\bibleverse{Ps}(130/129:))

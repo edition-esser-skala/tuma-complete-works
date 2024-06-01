@@ -8,6 +8,7 @@
 - uses LilyPond 2.24.2 and EES Tools 2023.10.0
 - works (sorted by TumW numbers, including name of original repository and release history):
   - D.2.6 *De profundis* (tuma-de-profundis-et-memento; v1.0.0, 2022-11-22)
+  - D.2.7 *De profundis* (tuma-de-profundis; v1.0.0, 2022-11-04)
   - D.2.16 *Memento* (tuma-de-profundis-et-memento; v1.0.0, 2022-11-22)
   - C.3.4 *O magnum mysterium* (tuma-o-magnum-mysterium; v1.0.0, 2022-07-21)
   - C.3.5 *Bonum est confiteri* (tuma-bonum-est-confiteri; v1.0.0, 2022-11-01)4
