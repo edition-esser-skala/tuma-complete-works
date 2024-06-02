@@ -1,0 +1,33 @@
+title: Venite ad me
+subtitle: Motetto del Santissimo Sacramento
+id: TumW C.3.18
+genre: motet
+scoring: S, A, T (solo), S, A, T, B (coro), cnto, [fag], 2 trb, 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15712
+    rism: 600138747
+    date: 1743
+    url: https://data.onb.ac.at/rec/AC14297607
+    license: public domain
+    principal: true
+    notes: 16 parts (S solo, A solo, T solo, S rip, A rip, T rip, B rip, cnto, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella)
+imslp: Venite_ad_me_(Tůma,_František_Ignác_Antonín)
+toe: |
+  –  & fag & This part is missing in \B1 and therefore has been
+             created by the editor. \\
+  12 & cnto, vl 1, S & 4th \eighthNote\ in \B1: d″8 \\
+lyrics:
+  Venite ad me omnes qui laboratis,\\
+  et onerati estis:\\
+  et ego reficiam vos.\\
+  (\bibleverse{Mat}(11:28))\\[1ex]
+  Panis quem ego dabo vobis\\
+  caro mea est.\\
+  (\bibleverse{Joh}(6:52))\\[1ex]
+  Qui manducat meam carnem\\
+  et bibit meum sanguinem\\
+  vivet in aeternum.\\
+  (\bibleverse{Joh}(6:57))

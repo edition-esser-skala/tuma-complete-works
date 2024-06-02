@@ -22,3 +22,4 @@
   - C.3.12 *Per labra nectar bibitur* (tuma-laudes-mariae-resonas; v1.0.0, 2022-12-25)
   - C.3.13 *Almo factori omnium* (tuma-almo-factori-omnium; v1.0.0, 2022-08-23)
   - C.3.17 *Audite insulæ* (tuma-audite-insulae; v1.0.0, 2022-08-29)
+  - C.3.18 *Venite ad me* (tuma-venite-ad-me-A-Wn-Mus-Hs-15712; v1.0.0, 2023-03-22)
