@@ -1,0 +1,43 @@
+title: Laudes Mariæ resonas
+subtitle: Motetto della Madonna
+id: TumW C.3.12
+genre: motet
+scoring: S, A, T, B (solo), S, A, T, B (coro), cnto, fag, 2 trb, 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15719
+    rism: 600139013
+    date: 1744
+    url: https://data.onb.ac.at/rec/AC14297614
+    license: public domain
+    principal: true
+    notes: 18 parts (S solo, A solo, T solo, B, solo, S rip, A rip, T rip, B rip, cnto, fag, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella)
+imslp: Laudes_Mariae_resonans_(Tůma,_František_Ignác_Antonín)
+toe: |
+  9  & vl 2 & 2nd \eighthNote\ in \B1: \sharp c′8 \\
+  47 & vl 2 & 1st \quarterNote\ in \B1: e′4 \\
+  96–100 & – & All instruments except b/org pause in these bars. \\
+lyrics:
+  Laudes Mariae resonas,\\
+  clientum turba canite,\\
+  et fervida votis pectora\\
+  in sinu matris pandite.\\[1ex]
+  Tu sancta spes fides,\\
+  amor altare Thymiamatis,\\
+  intende quas fundunt\\
+  preces tuas ad aras famuli.\\[1ex]
+  Sint pura nobis pectora,\\
+  repelle procul crimina,\\
+  flagremus et in laudem Dei,\\
+  ne fluxa saecli nos liget cupiditas.\\
+  Commenda nos tuae proli,\\
+  ne deflectamus recta poli\\
+  quae nos perducit ad Patriam.\\[1ex]
+  Summae Mater clementiae,\\
+  fons vitae spes et veniae,\\
+  te deprecamur supplices,\\
+  vivamus inter coelites.\\[1ex]
+  In sempiterna saecula,\\
+  amen.
