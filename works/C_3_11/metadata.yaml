@@ -1,0 +1,32 @@
+title: Adeste animæ
+subtitle: Motetto del Santissimo
+id: TumW C.3.11
+genre: motet
+scoring: S, A (solo), S, A, T, B (coro), cnto, fag, 2 trb, 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15715
+    rism: 600138897
+    date: 1741
+    url: https://data.onb.ac.at/rec/AC14297610
+    license: public domain
+    principal: true
+    notes: 16 parts (S solo, A solo, S rip, A rip, T rip, B rip, cnto, fag, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella)
+imslp: Adeste_animae_(Tůma,_František_Ignác_Antonín)
+toe: |
+  38  & trb 2, T & 1st \halfNote\ in \B1: a2 \\
+  42  & vl 1     & 4th to 6th \eighthNote\ in \B1: b″8–a″8–g″8 \\
+  42  & vl 2     & 5th \eighthNote\ in \B1: \sharp f″8 \\
+  72  & trb 2, T & rhythm in \B1: \quarterNote–\halfNote \\
+  83  & vl 2     & grace note missing in \B1 \\
+  111 & vl 2     & grace note missing in \B1 \\
+  112 & vl       & grace note missing in \B1 \\
+lyrics:
+  Adeste, adeste animae,\\
+  ad magnam coenam currite,\\
+  en Deus vocat vos.\\[1ex]
+  Dat carnem et dat sanguinem,\\
+  ut cibet totum hominem,\\
+  en quanti amat nos.

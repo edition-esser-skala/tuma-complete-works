@@ -18,3 +18,4 @@
   - C.3.7 *O quam suavis est* (tuma-o-quam-suavis-est-A-Wn-Mus-Hs-15714; v1.0.0, 2023-03-19)
   - C.3.8 *Vilescit mihi mundus* (tuma-vilescit-mihi-mundus; v1.0.0, 2022-07-27)
   - C.3.9 *Per labra nectar bibitur* (tuma-per-labra-nectar-A-Wn-Mus-Hs-15709; v1.0.0, 2023-02-06)
+  - C.3.11 *Per labra nectar bibitur* (tuma-adeste-animae.git; v1.0.0, 2022-08-22)
