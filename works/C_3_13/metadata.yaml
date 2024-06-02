@@ -1,0 +1,39 @@
+title: Almo factori omnium
+subtitle: Motetto de Tempore
+id: TumW C.3.12
+genre: motet
+scoring: A, T, B (solo), S, A, T, B (coro), cnto, fag, 2 trb, 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15711
+    rism: 600138727
+    date: 1740
+    url: https://data.onb.ac.at/rec/AC14297606
+    license: public domain
+    principal: true
+    notes: 17 parts (A solo, T solo, B solo, S rip, A rip, T rip, B rip, cnto, fag, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella)
+imslp: Almo_factori_omnium_(Tůma%2C_František_Ignác_Antonín)
+toe: |
+  98  & vl 1 & 3rd \eighthNote\ in \B1: \sharp f″8 \\
+  112 & B    & 1st \wholeNote\ in \B1: g2.–f4 \\
+  124 & vl 2 & bar in \B1: a′1–a′1 \\
+lyrics:
+  Almo factori omnium,\\
+  pio fautori hominum\\
+  laudes canamus hilares,\\
+  preces fundamus humiles.\\[1ex]
+  Cuius summa potentia\\
+  eduxit cuncta entia,\\
+  cuius appensa digito\\
+  utraque moles sistitur.\\[1ex]
+  Illius sapientia\\
+  aeternis adstans sedibus\\
+  associari hominum\\
+  sanctis ardescit mentibus.\\[1ex]
+  Qui hanc coepere cupidi\\
+  ducemque nacti fuerant,\\
+  Deum laudabunt fervidi\\
+  in sempiterna saecula.\\[1ex]
+  Amen.
