@@ -1,0 +1,30 @@
+title: Audite insulæ
+subtitle: "Motetto de S: Joanne Baptistæ"
+id: TumW C.3.17
+genre: motet
+scoring: A (solo), S, A, T, B (coro), cnto, fag, 2 trb, 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15718
+    rism: 600138980
+    date: 1743
+    url: https://data.onb.ac.at/rec/AC14297613
+    license: public domain
+    principal: true
+    notes: 15 parts (A solo, S rip, A rip, T rip, B rip, cnto, fag, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella)
+imslp: Audite_insulae_(Tůma,_František_Ignác_Antonín)
+toe: |
+  85 & vl 2 & 1st \eighthNote\ in \B1: f′8 \\
+lyrics:
+  Audite insulae,\\
+  et attendite populi de longe.\\
+  Dominus ab utero vocavit me,\\
+  de ventre matris meae\\
+  recordatus est nominis mei.\\[1ex]
+  Non fuit vasti spatium per orbis\\
+  sanctior quisquam genitus Joanne,\\
+  qui nefas saecli meruit\\
+  levantem tingere aquis.\\[1ex]
+  Alleluia.
