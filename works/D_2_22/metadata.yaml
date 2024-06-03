@@ -12,22 +12,23 @@ sources:
     principal: true
     notes: full score ()
 imslp: Miserere_in_c_minor_(Tůma,_František_Ignác_Antonín)
+toestyle: movement
 toe: |
-  –     & –   & Red annotations in \B1, which presumably were added
-                by later hand, have been ignored for this edition. \\
-  2·75  & T   & bar in \B1: \flat e′2. \\
-  6·21  & T   & 3rd \quarterNote\ in \B1: a4 \\
-  9·16  & S   & 5th \eighthNote\ in \B1: g′16.–\flat e″32 (cf. T, bar 18) \\
-  9·21  & B   & 1st \quarterNote\ in \B1: c8–c8 \\
-  10·15 & B   & 1st note in \B1: \flat e4. \\
-  11·7  & T   & 1st \quarterNote\ in \B1: \flat a4 \\
-  11·21 & T   & 2nd \quarterNote\ in \B1: e′4 \\
-  11·23 & A   & 3rd \quarterNote\ in \B1: f′4 \\
-  12·3  & S   & 1st \eighthNote\ in \B1: \flat e″8 \\
-  12·40 & org & 4th \quarterNote\ in \B1: \crotchetRest \\
-  12·41 & A   & 4th \eighthNote\ in \B1: d′8 \\
-  13·2  & B   & 4th \eighthNote\ in \B1: d8 \\
-  13·27 & A   & 4th \quarterNote\ in \B1. f′4 \\
-  13·38 & org & bar in \B1: c4–\crotchetRest–\crotchetRest–%
-                \quaverRest–\flat e8 \\
-  13·47 & org & bar in \B1: g4–\crotchetRest–\halfNoteRest \\
+  –  & –  & –   & Red annotations in \B1, which presumably were added
+                  by later hand, have been ignored for this edition. \\
+  2  & 75 & T   & bar in \B1: \flat e′2. \\
+  6  & 21 & T   & 3rd \quarterNote\ in \B1: a4 \\
+  9  & 16 & S   & 5th \eighthNote\ in \B1: g′16.–\flat e″32 (cf. T, bar 18) \\
+     & 21 & B   & 1st \quarterNote\ in \B1: c8–c8 \\
+  10 & 15 & B   & 1st note in \B1: \flat e4. \\
+  11 & 7  & T   & 1st \quarterNote\ in \B1: \flat a4 \\
+     & 21 & T   & 2nd \quarterNote\ in \B1: e′4 \\
+     & 23 & A   & 3rd \quarterNote\ in \B1: f′4 \\
+  12 & 3  & S   & 1st \eighthNote\ in \B1: \flat e″8 \\
+     & 40 & org & 4th \quarterNote\ in \B1: \crotchetRest \\
+     & 41 & A   & 4th \eighthNote\ in \B1: d′8 \\
+  13 & 2  & B   & 4th \eighthNote\ in \B1: d8 \\
+     & 27 & A   & 4th \quarterNote\ in \B1. f′4 \\
+     & 38 & org & bar in \B1: c4–\crotchetRest–\crotchetRest–%
+                  \quaverRest–\flat e8 \\
+     & 47 & org & bar in \B1: g4–\crotchetRest–\halfNoteRest \\
