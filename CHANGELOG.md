@@ -24,3 +24,4 @@
   - C.3.17 *Audite insulæ* (tuma-audite-insulae; v1.0.0, 2022-08-29)
   - C.3.18 *Venite ad me* (tuma-venite-ad-me-A-Wn-Mus-Hs-15712; v1.0.0, 2023-03-22)
   - C.3.20 *Mulier quæ erat* (tuma-mulier-quae-erat-A-Wn-Mus-Hs-15713; v1.0.0, 2023-01-16)
+  - H.19 *Litaniæ lauretanæ* (tuma-litaniae-lauretanae-A-Wn-Mus-Hs-15694; v1.0.0, 2022-02-03)
