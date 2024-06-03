@@ -8,16 +8,21 @@
 \shortname{\rlap{\hspace{.85em}°}Tuma}
 \shorttitle{Proprium missæ}
 
+\providecommand\MetadataToestyle{short}
+
 \begin{document}
 
 \eesTitlePage
 
 \makeatletter%
   \ifthenelse{\isundefined{\MetadataToe}}{\ees@toefalse}{}%
+  \ifthenelse{\equal{\MetadataToestyle}{movement}}%
+    {\let\ees@tocstyle\ees@tocstyle@default}{}%
 \makeatother%
 \eesCriticalReport{\csname MetadataToe\endcsname}
 \makeatletter%
   \ees@toetrue%
+  \let\ees@tocstyle\ees@tocstyle@none%
 \makeatother
 
 \ifthenelse{\isundefined{\MetadataLyrics}}{}{%
