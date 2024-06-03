@@ -1,0 +1,33 @@
+title: Regis superni nuntia
+subtitle: Inno Per Il Festo di S:ta Teresia
+id: TumW C.2.7
+genre: hymn
+scoring: A (solo), trb solo, 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15681
+    rism: 600138880
+    date: 1741
+    url: https://data.onb.ac.at/rec/AC14297580
+    license: public domain
+    principal: true
+    notes: 7 parts (A solo, trb, vl 1, vl 2, vlc, org, maestro di cappella)
+imslp: Regis_superni_nuntia_(Tůma,_František_Ignác_Antonín)
+parts:
+  A_solo: Alto solo
+  trb: Trombone solo
+lyrics:
+  \begin{multicols}{2}
+  Regis superni nuntia\\
+  domum paternam deseris,\\
+  terris Teresa barbaris\\
+  Christum datura aut sanguinem.\\
+  ~\\
+  Sit laus Patri cum Filio\\
+  et Spiritu Paraclyto,\\
+  tibique Sancta Trinitas\\
+  nunc et per omne saeculum.\\
+  (Liber Hymnarius 1983, p. 455)
+  \end{multicols}

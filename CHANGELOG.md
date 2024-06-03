@@ -13,6 +13,7 @@
   - D.2.9 *Dixit Dominus* (tuma-dixit-dominus-A-Wn-Mus-Hs-15679; v1.0.0, 2022-12-09)
   - D.2.16 *Memento* (tuma-de-profundis-et-memento; v1.0.0, 2022-11-22)
   - D.2.22 *Miserere* (tuma-miserere; v2.1.0, 2024-01-17; v2.0.0, 2021-12-03; v1.0, 2021-08-26)
+  - C.2.7 *Regis superni nuntia* (tuma-regis-superni-nuntia-A-Wn-Mus-Hs-15681; v1.0.0, 2023-02-11)
   - C.3.4 *O magnum mysterium* (tuma-o-magnum-mysterium; v1.0.0, 2022-07-21)
   - C.3.5 *Bonum est confiteri* (tuma-bonum-est-confiteri; v1.0.0, 2022-11-01)4
   - C.3.7 *O quam suavis est* (tuma-o-quam-suavis-est-A-Wn-Mus-Hs-15714; v1.0.0, 2023-03-19)
