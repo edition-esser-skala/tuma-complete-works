@@ -16,7 +16,7 @@
     }
   }
   \bookpart {
-    \section "H.19 · 2" "Sancta Maria"
+    \section "2" "Sancta Maria"
     \addTocEntry
     \score {
       <<
@@ -26,7 +26,7 @@
     \tacet "section" "Speculum iustitiæ"
   }
   \bookpart {
-    \section "H.19 · 4" "Salus infirmorum"
+    \section "4" "Salus infirmorum"
     \addTocEntry
     \score {
       <<
@@ -35,7 +35,7 @@
     }
   }
   \bookpart {
-    \section "H.19 · 5" "Sub tuum præsidium"
+    \section "5" "Sub tuum præsidium"
     \addTocEntry
     \paper { systems-per-page = #3 }
     \score {
