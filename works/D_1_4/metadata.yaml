@@ -1,0 +1,37 @@
+title: Vesperæ de Confessore
+id: TumW D.1.4
+genre: vesper
+scoring: S, A, T, B (solo), S, A, T, B (coro), 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: D-Dl
+    shelfmark: Mus.2968-D-508
+    rism: 1001003498
+    date: 1890–1910
+    url: https://digital.slub-dresden.de/id484816454
+    license: public domain
+    principal: true
+    notes: full score, 74 pages
+imslp: Vesperae_de_Confessore_(Tůma,_František_Ignác_Antonín)
+toestyle: movement
+toe: |
+  1 & 23 & B    & 1st to 3rd \eighthNote\ in \B1: d8–d8–\sharp f8 \\
+    & 30 & vl 2 & 3rd \eighthNote\ in \B1: \sharp g′8 \\
+  2 & 4  & org  & 3rd \eighthNote\ in \B1: A8 \\
+    & 33 & vl 1 & 4th \eighthNote\ in \B1: g′16–g′16;
+                  last \eighthNote\ in \B1: \sharp f′16–\sharp f′16 \\
+    & 35 & A    & 1st \quarterNote\ in \B1: g′8–g′8 \\
+  3 & 2  & vl 2 & last \quarterNote\ in \B1: \sharp c′4 \\
+    & 3  & vl 2 & 2nd \halfNote\ in \B1: b′2 \\
+    & 37 & B    & bar in \B1: a8–a8–a16–a16–d8–e8–f8–f8–e16–e16 \\
+  4 & 14 & vl 1 & 2nd \quarterNote\ in \B1: a′4 \\
+    & 17 & A    & last \quarterNote\ in \B1: d′4 \\
+    & 31 & S    & 6th \eighthNote\ in \B1: g′8 \\
+  5 & 11 & A    & bar in \B1: e′2–e′2 \\
+    & 21 & T    & bar in \B1: g4–a8–b8–c′2 \\
+    & 35 & T    & bar missing in \B1 \\
+    & 58 & vl 1 & bar in \B1: \flat b′2–\flat b′4–\flat b′4 \\
+  6 & 30 & org  & 6th \eighthNote\ in \B1: \sharp c8 \\
+    & 49 & org  & upper voice, 2nd \halfNote\ in \B1:
+                  \sharp c″4–\sharp c″8–\sharp c″16–b′16 \\

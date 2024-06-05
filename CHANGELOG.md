@@ -24,6 +24,7 @@
   - C.3.17 *Audite insulæ* (tuma-audite-insulae; v1.0.0, 2022-08-29)
   - C.3.18 *Venite ad me* (tuma-venite-ad-me-A-Wn-Mus-Hs-15712; v1.0.0, 2023-03-22)
   - C.3.20 *Mulier quæ erat* (tuma-mulier-quae-erat-A-Wn-Mus-Hs-15713; v1.0.0, 2023-01-16)
+  - D.1.4 *Vesperæ de Confessore* (tuma-vesperae-D-Dl-Mus-2968-D-508; v1.0.0, 2022-04-25)
   - D.2.6 *De profundis* (tuma-de-profundis-et-memento; v1.0.0, 2022-11-22)
   - D.2.7 *De profundis* (tuma-de-profundis; v1.0.0, 2022-11-04)
   - D.2.8 *Dixit Dominus* (tuma-dixit-dominus-A-Wn-Mus-Hs-15680; v1.0.0, 2022-12-10)
