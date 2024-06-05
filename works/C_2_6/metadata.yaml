@@ -1,0 +1,44 @@
+title: Te lucis ante terminum
+id: TumW C.2.6
+genre: hymn
+scoring: S, B (solo), 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  A1:
+    siglum: D-B
+    shelfmark: Mus.ms.autogr. Tuma, F. 2 M
+    rism: 1001020790
+    url: https://resolver.staatsbibliothek-berlin.de/SBB000209F100000000
+    license: public domain
+    principal: true
+    notes: full score, 2 pages
+  B1:
+    siglum: D-B
+    shelfmark: Mus.ms.autogr. Salieri, A. 4 (5)
+    date: 1800–1833
+    rism: 464122530
+    url: https://resolver.staatsbibliothek-berlin.de/SBB00018FBF00050000
+    license: public domain
+    notes: full score, 3 pages
+  B2:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15772
+    rism: 600138923
+    url: https://data.onb.ac.at/rec/AC14297581
+    license: public domain
+    notes: full score, 4 pages
+imslp: Te_lucis_ante_terminum_(Tůma,_František_Ignác_Antonín)
+lyrics:
+  Te lucis ante terminum\\
+  rerum creator posci mus\\
+  ut pro tua clementia\\
+  sis praesul et custodia.\\[1ex]
+  Procul recedant somnia\\
+  et noctium phantasmata,\\
+  hostemque nostrum comprime,\\
+  ne polluantur corpora.\\[1ex]
+  Praesta, Pater piissime,\\
+  Patrique compar unice,\\
+  cum Spiritu Paraclito\\
+  regnas per omne saeculum.\\
+  (Liber Hymnarius 1983, p. 241)
