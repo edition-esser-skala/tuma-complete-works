@@ -1,0 +1,27 @@
+title: Stabat mater
+subtitle: Il Pianto della madre dolorosa
+id: TumW G.2
+genre: sequence
+scoring: S, A, T, B (coro), b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: SA.67.H.5
+    url: https://data.onb.ac.at/rec/AC14297619
+    license: public domain
+    principal: true
+    notes: full score,
+imslp: Stabat_mater_(Tůma,_František_Ignác_Antonín)
+toestyle: movement
+toe: |
+  – & –  & –   & Red annotations in \B1, which presumably were added \newline
+                 by later hand, have been ignored for this edition. \\
+  1 & 19  & T   & 4th \quarterNote\ in \B1: d′4 \\
+  4 & 3   & org & 1st \quarterNote\ in \B1: \flat B8–A16–G16 \\
+    & 13  & T   & 2nd \halfNote\ in \B1: 2 x \semiquaverRest–d′16–\flat e′16–d′16 \\
+  6 & 2   & org & last \eighthNote\ in \B1: f8 \\
+  7 & 54  & S   & 5th \quarterNote\ in \B1: d″4 \\
+  8 & 26  & A   & 6th \eighthNote\ in \B1: g′16–\flat a′16 \\
+  9 & 4   & T   & 1st \quarterNote\ in \B1: c′4 \\
+    & 48f & org & notes in violin clef added by editor \\
