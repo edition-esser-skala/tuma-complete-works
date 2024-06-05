@@ -1,0 +1,24 @@
+title: Missa Sancti Antonii
+id: TumW A.3.14
+genre: mass
+scoring: S, A, T, B (solo), S, A, T, B (coro), cnto, fag, 2 trb, 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.19009
+    rism: 600137126
+    date: 1746
+    url: https://data.onb.ac.at/rec/AC14297553
+    license: public domain
+    principal: true
+    notes: 27 parts (S solo, A solo, T solo, B solo, S rip (2×), A rip (2×), T rip (2×), B rip (3×), cnto, fag, trb 1, trb 2, vl 1 (3×), vl 2 (3×), vlc, vlne, org, maestro di cappella)
+imslp: Missa_brevis_(Tůma,_František_Ignác_Antonín)
+toestyle: movement
+toe: |
+  2 & 12   & T     & 2nd \quarterNote\ in \B1: d′16–c′16–b16–a16 \\
+    & 42f  & trb 1 & in \B1, trb does not play colla parte with A,
+                     but rather pauses \\
+    & 42   & A     & 6th \eighthNote\ in \B1: d′8 \\
+  3 & 47ff & fag   & 2nd \quarterNote\ of bar 47 to 1st
+                     \quarterNote\ of bar 49 in \B1 unison with org \\
