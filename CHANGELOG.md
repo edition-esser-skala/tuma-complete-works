@@ -37,3 +37,4 @@
   - G.2 *Stabat mater* (tuma-stabat-mater; v2.0.0, 2021-12-03; v1.0, 2021-09-24)
   - G.3 *Stabat mater* (tuma-stabat-mater-D-Dl-2968-D-514; v1.0.0, 2022-01-21)
   - H.19 *Litaniæ lauretanæ* (tuma-litaniae-lauretanae-A-Wn-Mus-Hs-15694; v1.0.0, 2022-02-03)
+  - I.1 *Lamentationes Ieremiæ Prophetæ* (tuma-lamentationes-D-Dl-Mus-2968-E-502; v1.0.0, 2023-03-05)
