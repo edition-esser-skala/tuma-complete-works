@@ -1,0 +1,32 @@
+title: Stabat mater
+subtitle: Sequenza per la Messa dei 7 Dolori della Madonna
+id: TumW G.1
+genre: sequence
+scoring: S, A, T, B (coro), cnto, fag, 2 trb, vl, vla, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15725
+    rism: 600138806
+    date: 1747
+    url: https://data.onb.ac.at/rec/AC14297618
+    license: public domain
+    principal: true
+    notes: 24 parts (S (3×), A (3×), T (3×), B (3×), cnto, fag, trb 1, trb 2, vl (2×), vla (2×), vlc, vlne, org, maestro di cappella)
+  D1:
+    siglum: D-Dl
+    shelfmark: Mus.2968-D-509
+    date: 1890–1910
+    rism: 1001001595
+    url: https://digital.slub-dresden.de/id480932069
+    license: public domain
+    notes: full score
+imslp: Stabat_mater_(A-Wn_Mus.Hs.15725)_(Tůma,_František_Ignác_Antonín)
+toe: |
+  6f & org & Notes in treble clef were added by the editor. \\
+  12 & org & 4th \eighthNote\ of upper voice missing in \B1 \\
+  28 & org & 4th/5th \eighthNote\ in \B1 unison with S/A \\
+lyrics:
+
+  (\bibleverse{Ps}(25/24:1-3))
