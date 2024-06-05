@@ -1,0 +1,37 @@
+title: Placare Christe servulis
+subtitle: Hymnus pro festo omnium Sanctorum
+id: TumW C.2.8
+genre: hymn
+scoring: S (solo), S, A, T, B (coro), cnto, fag, 2 trb, 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15685
+    rism: 600138862
+    date: 1741
+    url: https://data.onb.ac.at/rec/AC14297578
+    license: public domain
+    principal: true
+    notes: 17 parts (S solo, S rip, A rip, T rip (2×), B rip (2×), cnto, fag, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella)
+imslp: Placare_Christi_servulis_(Tůma%2C_František_Ignác_Antonín)
+toe: |
+  13  & vl 2       & 2nd \quarterNote\ in \B1: g′4 \\
+  35  & vl 1       & 1st \halfNote\ in \B1: g′4–f′4 \\
+  56  & vl 1, 2    & 5th \eighthNote\ in \B1: e″8 \\
+  98  & A          & 3rd \quarterNote\ in \B1: g′4 \\*
+  115 & cnto, vl 1 & grace note missing in \B1 \\
+lyrics:
+  Placare, Christe, servulis,\\
+  quibus Patris clementiam\\
+  tuae ad tribunal gratiae\\
+  patrona virgo postulat.\\[1ex]
+  Et vos, beata per novem\\
+  distincta gyros agmina,\\
+  antiqua cum praesentibus,\\
+  futura damna pellite.\\[1ex]
+  Deo Patri sit gloria,\\
+  Natoque Patris unico,\\
+  sancto simul paraclito,\\
+  in sempiterna saecula.\\
+  (Breviarum Romanum 1632)
