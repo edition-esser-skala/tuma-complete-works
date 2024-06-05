@@ -1,0 +1,35 @@
+title: Stabat mater
+id: TumW G.3
+genre: sequence
+scoring: S, A, T, B (solo), S, A, T, B (coro), 2 trb, 2 vl, vlc solo, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: D-Dl
+    shelfmark: Mus.2968-D-514
+    date: 1890–1910
+    url: https://digital.slub-dresden.de/id480400431
+    rism: 1001001293
+    license: public domain
+    principal: true
+    notes: 18 parts (S solo, A solo, T solo, B solo, S rip, A rip, T rip, B rip, cnto, fag, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella)
+imslp: Stabat_mater_(D-Dl_Mus.2968-D-514)_(Tůma,_František_Ignác_Antonín)
+toestyle: movement
+toe: |
+  – & –  & org  & \B1 contains chords for org,
+                  which have been omitted from this edition. \\
+  2 & 5  & vl 2 & 2nd \quarterNote\ in \B1: g′4 \\
+    & 6f & vl 2 & bars in \B1 unison with A \\
+    & 12 & vl 2 & bar in \B1 unison with A \\
+    & 33 & vl 2 & bar in \B1 unison with A \\
+    & 37 & org  & bar in \B1: d2. \\
+  3 & 19 & vl 1 & 2nd \halfNote\ in \B1: \flat g′2 \\
+  4 & –  & org  & notes in treble (ottavo) clef added by editor \\
+    & 3  & vl 1, S & 1st \quarterNote\ in \B1: \flat b′4 \\
+    & 19 & org  & bar in \B1: g2–g4–f4 \\
+  5 & –  & vlc  & clefs were added by the editor \\
+    & 19 & vlc  & 2nd/3rd \quarterNote\ in \B1: c2 \\
+    & 19 & org  & bar in \B1: c2–4 \\
+    & 99 & org  & bar in \B1: c2. \\
+parts:
+  b: Violoncello solo\\Bassi

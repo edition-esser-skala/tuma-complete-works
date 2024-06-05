@@ -33,4 +33,5 @@
   - F.3.2 *Salve Regina* (tuma-salve-regina-A-Ed-K-8; v2.0.0, 2021-12-03; v1.0, 2021-08-30)
   - G.1 *Stabat mater* (tuma-stabat-mater-A-Wn-Mus-Hs-15725; v1.0.0, 2023-02-23)
   - G.2 *Stabat mater* (tuma-stabat-mater; v2.0.0, 2021-12-03; v1.0, 2021-09-24)
+  - G.3 *Stabat mater* (tuma-stabat-mater-D-Dl-2968-D-514; v1.0.0, 2022-01-21)
   - H.19 *Litaniæ lauretanæ* (tuma-litaniae-lauretanae-A-Wn-Mus-Hs-15694; v1.0.0, 2022-02-03)
