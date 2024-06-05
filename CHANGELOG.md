@@ -7,13 +7,11 @@
 - initial release
 - uses LilyPond 2.24.2 and EES Tools 2023.10.0
 - works (sorted by TumW numbers, including name of original repository and release history):
-  - D.2.6 *De profundis* (tuma-de-profundis-et-memento; v1.0.0, 2022-11-22)
-  - D.2.7 *De profundis* (tuma-de-profundis; v1.0.0, 2022-11-04)
-  - D.2.8 *Dixit Dominus* (tuma-dixit-dominus-A-Wn-Mus-Hs-15680; v1.0.0, 2022-12-10)
-  - D.2.9 *Dixit Dominus* (tuma-dixit-dominus-A-Wn-Mus-Hs-15679; v1.0.0, 2022-12-09)
-  - D.2.16 *Memento* (tuma-de-profundis-et-memento; v1.0.0, 2022-11-22)
-  - D.2.22 *Miserere* (tuma-miserere; v2.1.0, 2024-01-17; v2.0.0, 2021-12-03; v1.0, 2021-08-26)
-  - C.2.7 *Regis superni nuntia* (tuma-regis-superni-nuntia-A-Wn-Mus-Hs-15681; v1.0.0, 2023-02-11)
+  - A.3.4 *Missa Sancti Stephani* (tuma-missa-sancti-stephani; v2.0.0, 2021-12-03; v1.0, 2021-10-06)
+  - A.3.14 *Missa Sancti Antonii* (tuma-missa-A-Wn-Mus-Hs-19009; v1.0.0, 2023-04-08)
+  - C.2.6 *Te lucis ante terminum* (tuma-te-lucis-ante-terminum-D-B.git; v1.0.0, 2023-02-11)
+  - C.2.7 *Regis superni nuntia* (tuma-regis-superni-nuntia-A-Wn-Mus-Hs-15681; v1.0.0, 2023-02-07)
+  - C.2.8 *Placare Christe servulis* (tuma-placare-christe-servulis; v2.0.0, 2021-12-03; v1.0, 2021-10-11)
   - C.3.4 *O magnum mysterium* (tuma-o-magnum-mysterium; v1.0.0, 2022-07-21)
   - C.3.5 *Bonum est confiteri* (tuma-bonum-est-confiteri; v1.0.0, 2022-11-01)4
   - C.3.7 *O quam suavis est* (tuma-o-quam-suavis-est-A-Wn-Mus-Hs-15714; v1.0.0, 2023-03-19)
@@ -25,4 +23,14 @@
   - C.3.17 *Audite insulæ* (tuma-audite-insulae; v1.0.0, 2022-08-29)
   - C.3.18 *Venite ad me* (tuma-venite-ad-me-A-Wn-Mus-Hs-15712; v1.0.0, 2023-03-22)
   - C.3.20 *Mulier quæ erat* (tuma-mulier-quae-erat-A-Wn-Mus-Hs-15713; v1.0.0, 2023-01-16)
+  - D.2.6 *De profundis* (tuma-de-profundis-et-memento; v1.0.0, 2022-11-22)
+  - D.2.7 *De profundis* (tuma-de-profundis; v1.0.0, 2022-11-04)
+  - D.2.8 *Dixit Dominus* (tuma-dixit-dominus-A-Wn-Mus-Hs-15680; v1.0.0, 2022-12-10)
+  - D.2.9 *Dixit Dominus* (tuma-dixit-dominus-A-Wn-Mus-Hs-15679; v1.0.0, 2022-12-09)
+  - D.2.16 *Memento* (tuma-de-profundis-et-memento; v1.0.0, 2022-11-22)
+  - D.2.22 *Miserere* (tuma-miserere; v2.1.0, 2024-01-17; v2.0.0, 2021-12-03; v1.0, 2021-08-26)
+  - F.2.8 *Ave Regina cœlorum* (tuma-ave-regina; v1.0.0, 2022-09-03)
+  - F.3.2 *Salve Regina* (tuma-salve-regina-A-Ed-K-8; v2.0.0, 2021-12-03; v1.0, 2021-08-30)
+  - G.1 *Stabat mater* (tuma-stabat-mater-A-Wn-Mus-Hs-15725; v1.0.0, 2023-02-23)
+  - G.2 *Stabat mater* (tuma-stabat-mater; v2.0.0, 2021-12-03; v1.0, 2021-09-24)
   - H.19 *Litaniæ lauretanæ* (tuma-litaniae-lauretanae-A-Wn-Mus-Hs-15694; v1.0.0, 2022-02-03)
