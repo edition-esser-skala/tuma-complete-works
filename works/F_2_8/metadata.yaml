@@ -1,0 +1,25 @@
+title: Ave Regina cœlorum
+id: TumW F.2.8
+genre: antiphon
+scoring: S, A, T, B (coro), 2 cor (F), 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15673
+    rism: 600137175
+    date: 1742
+    url: https://data.onb.ac.at/rec/AC14297568
+    license: public domain
+    principal: true
+    notes: 15 parts (T solo, S rip, A rip, T rip, B rip, cnto, fag, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella)
+imslp: Ave_regina_in_C_minor_(Tůma,_František_Ignác_Antonín)
+toe: |
+  38  & cnto, S  & 2nd/3rd \quarterNote\ in \B1: \flat b′8–a′8–d″8–c″8 \\
+  65  & vl 2     & 1st \quarterNote\ in \B1: \flat b8–\flat a′8 \\
+  71  & T        & 9th \sixteenthNote\ in \B1: \flat b16 \\
+  90  & trb 1, A & 7th \eighthNote\ in \B1: d′8 \\
+  103 & trb 2    & grace note missing in \B1 \\
+  104 & trb 1    & 3rd \quarterNote\ in \B1: \flat e′8–d′16–\flat e′16 \\
+  111 & trb 2    & grace note missing in \B1 \\
+  123 & b        & 2nd \quarterNote\ in \B1: \flat a8–g8 \\
