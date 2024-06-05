@@ -10,6 +10,18 @@
 
 \providecommand\MetadataToestyle{short}
 
+\ifthenelse{\isundefined{\MetadataFestival}}{%
+  \subtitle{%
+    \MetadataSubtitle\\[\baselineskip]%
+    \xmakefirstuc{\MetadataGenre}%
+  }%
+}{%
+  \subtitle{%
+    \MetadataSubtitle\\[\baselineskip]%
+    \xmakefirstuc{\MetadataGenre}~(\MetadataFestival)%
+  }%
+}%
+
 \begin{document}
 
 \eesTitlePage
