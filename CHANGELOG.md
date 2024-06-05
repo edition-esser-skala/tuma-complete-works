@@ -9,7 +9,8 @@
 - works (sorted by TumW numbers, including name of original repository and release history):
   - A.3.4 *Missa Sancti Stephani* (tuma-missa-sancti-stephani; v2.0.0, 2021-12-03; v1.0, 2021-10-06)
   - A.3.14 *Missa Sancti Antonii* (tuma-missa-A-Wn-Mus-Hs-19009; v1.0.0, 2023-04-08)
-  - C.2.6 *Te lucis ante terminum* (tuma-te-lucis-ante-terminum-D-B.git; v1.0.0, 2023-02-11)
+  - B.1 *Messa della morte* (tuma-messa-della-morte; v1.0.0, 2021-12-03)
+  - C.2.6 *Te lucis ante terminum* (tuma-te-lucis-ante-terminum-D-B; v1.0.0, 2023-02-11)
   - C.2.7 *Regis superni nuntia* (tuma-regis-superni-nuntia-A-Wn-Mus-Hs-15681; v1.0.0, 2023-02-07)
   - C.2.8 *Placare Christe servulis* (tuma-placare-christe-servulis; v2.0.0, 2021-12-03; v1.0, 2021-10-11)
   - C.3.4 *O magnum mysterium* (tuma-o-magnum-mysterium; v1.0.0, 2022-07-21)

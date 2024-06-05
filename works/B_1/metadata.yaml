@@ -1,0 +1,19 @@
+title: Messa della morte
+subtitle: Introitus and Kyrie
+id: TumW B.1
+genre: requiem
+scoring: S, A, T, B (solo), S, A, T, B (coro), cnto, fag, 2 clno (C), 2 trb, 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.16934
+    rism: 600137151
+    date: 1742
+    url: https://data.onb.ac.at/rec/AC14297556
+    license: public domain
+    principal: true
+    notes: 21 parts (S solo, A solo, T solo, B solo, S rip, A rip (2×), T rip, B rip, cnto, fag, clno 1, clno 2, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella)
+imslp: Messa_della_morte_(Tůma,_František_Ignác_Antonín)
+parts:
+  clno12: Clarino I, II in C
