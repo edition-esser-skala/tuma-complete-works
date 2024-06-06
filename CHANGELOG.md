@@ -39,3 +39,4 @@
   - H.19 *Litaniæ lauretanæ* (tuma-litaniae-lauretanae-A-Wn-Mus-Hs-15694; v1.0.0, 2022-02-03)
   - I.1 *Lamentationes Ieremiæ Prophetæ* (tuma-lamentationes-D-Dl-Mus-2968-E-502; v1.0.0, 2023-03-05)
   - J.1 *Sonata* (tuma-sonata-in-a-minor; v1.0.0, 2023-08-06)
+  - J.6 *Sonata* (tuma-sonata-in-e-minor; v2.0.0, 2021-12-03; v1.0, 2021-10-25)

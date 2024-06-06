@@ -1,0 +1,18 @@
+title: Sonata
+id: TumW J.6
+genre: sonata
+scoring: 2 trb, 2 vl, bc
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: D-B
+    shelfmark: Mus.Hs.3741
+    date: 1742
+    rism: 600138936
+    url: https://data.onb.ac.at/rec/AC14297623
+    license: public domain
+    principal: true
+    notes: 11 parts (trb 1, trb 2, vl 1 (2×), vl 2 (2×), vlc, vlne, fag, org, maestro di cappella)
+imslp: Sonata_in_e_minor_(Tůma,_František_Ignác_Antonín)
+toe: |
+  90 & trb 2 & 1st \halfNote\ in \B1: b8–b4–b8 \\
