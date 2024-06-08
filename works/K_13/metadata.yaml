@@ -1,0 +1,24 @@
+title: Sinfonia
+id: TumW K.13
+genre: sinfonia
+scoring: 2 vl, bc
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: D-Dl
+    shelfmark: Mus.2968-N-1
+    date: 1725–1745
+    rism: 212003083
+    url: https://digital.slub-dresden.de/id323415369
+    license: public domain
+    principal: true
+    notes: full score, 3 pages
+  B2:
+    siglum: D-Dl
+    shelfmark: Mus.2968-N-1a
+    date: 1730–1755
+    rism: 212003084
+    url: https://digital.slub-dresden.de/id323412327
+    license: public domain
+    notes: 16 parts (vl 1 (4×), vl 2 (4×), b (7×), org)
+imslp: Trio_Sonata_in_C_minor_(Tůma%2C_František_Ignác_Antonín)
