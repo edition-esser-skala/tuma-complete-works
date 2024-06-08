@@ -1,0 +1,29 @@
+title: Partita
+id: TumW L.2
+genre: partita
+scoring: 2 vl, bc
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: D-Dl
+    shelfmark: Mus.2968-P-508
+    rism: 1001167099
+    url: https://digital.slub-dresden.de/id181767191X
+    license: public domain
+    principal: true
+    notes: 7 parts (vl 1, vl 2, vlc, vlne, fag, org, maestro di cappella)
+imslp: Partita_in_A_minor_(Tůma,_František_Ignác_Antonín)
+toestyle: movement
+toe: |
+  – & –     & b    & All bass figures have been added by the editor. \\
+  1 & 13    & vl 1 & grace note missing in \B1 \\
+    & 28    & vl 1 & 2nd \quarterNote\ in \B1: d″4 \\
+  2 & 41    & vl 2 & 4th \eighthNote\ in \B1: b8 \\
+    & 45–48 & –    & In \B1, the repetition is indicated by repeat bar lines. \\
+    & 45    & vl 2 & 4th \eighthNote\ in \B1: b8 \\
+  4 & 12    & vl 2 & grace note missing in \B1 \\
+    & 13    & vl 1 & grace note missing in \B1 \\
+    & 16–18 & vl 2 & bars in \B1: g″4–\crotchetRest, \sharp f″4–\crotchetRest,
+                     and e″4–\crotchetRest \\
+    & 57–59 & vl 2 & bars in \B1: c″4–\crotchetRest, b′4–\crotchetRest,
+                     and a′4–\crotchetRest \\
