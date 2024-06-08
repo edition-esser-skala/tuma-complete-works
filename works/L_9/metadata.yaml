@@ -1,0 +1,20 @@
+title: Partita
+id: TumW L.9
+genre: partita
+scoring: 2 vl, bc
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: D-KA
+    shelfmark: Mus. Hs. 969
+    rism: 453002790
+    url: https://digital.blb-karlsruhe.de/567260
+    license: CC BY-SA 4.0
+    principal: true
+    notes: 7 parts (vl 1, vl 2, vlc, vlne, fag, org, maestro di cappella)
+imslp: Trio_in_A_major_(Tůma,_František_Ignác_Antonín)
+toestyle: movement
+toe: |
+  1 & 7  & vl 1 & 2nd/3rd \quarterNote\ in \B1:
+                  d″16–\sharp c″16–b′8–\sharp c″16–b16–a′8 \\
+  2 & 19 & bc   & 4th \eighthNote\ in \B1: e8 \\
