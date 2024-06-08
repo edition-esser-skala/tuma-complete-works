@@ -1,0 +1,33 @@
+title: Sinfonia
+id: TumW K.14
+genre: sinfonia
+scoring: 2 clno (C), timp (C–G), 2 vl, bc
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: D-B
+    shelfmark: 55 MS 10052
+    date: 1800
+    rism: 461005200
+    url: https://resolver.staatsbibliothek-berlin.de/SBB00032A8900000000
+    license: public domain
+    principal: true
+    notes: 6 parts (clno 1, clno 2, timp, vl 1, vl 2, b)
+imslp: Sinfonia_in_C_major_(Tůma,_František_Ignác_Antonín)
+parts:
+  ottoni: Clarino I, II in C\\Timpani in C–G
+toestyle: movement
+toe: |
+  – & –  & org    & Bass figures have been added by the editor. \\
+  1 & 12 & vl 2   & 7th \eighthNote\ in \B1: e″8 \\
+  2 & 11 & vl 2   & grace note missing in \B1 \\
+    & 19 & vl 2   & grace note missing in \B1 \\
+  3 & 6  & vl 2   & 3rd \quarterNote\ in \B1: d′4 \\
+    & 16 & clno 2 & bar missing in \B1 \\
+    & 23 & clno 1 & 2nd \quarterNote\ in \B1: d″4 \\
+    & 44 & vl 2   & bar in \B1: \flat e′2–d′4 \\
+  4 & 2  & clno 1 & 2nd \quarterNote\ in \B1: \crotchetRest \\
+    & 7  & bc     & 2nd \quarterNote\ in \B1: d4 \\
+    & 33 & clno 1 & grace note missing in \B1 \\
+    & 43 & vl 1   & 4th \sixteenthNote\ in \B1: f″16 \\
+    & 59 & vl 2   & bar in \B1: a′4–f′4 \\
