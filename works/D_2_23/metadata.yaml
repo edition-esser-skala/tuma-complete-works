@@ -1,0 +1,20 @@
+title: Miserere
+id: TumW D.2.23
+genre: psalm
+scoring: S, A, T, B (solo), S, A, T, B (coro), cnto, fag, 2 trb, 2 vl, vla, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15701
+    rism: 600138744
+    date: 1743
+    url: https://data.onb.ac.at/rec/AC14297595
+    license: public domain
+    principal: true
+    notes: 19 parts (S solo, A solo, T solo, B solo, S rip, A rip, T rip, B rip, cnto, fag, trb~1, trb 2, vl 1, vl 2, vla, vlc, vlne, org, maestro di cappella)
+toe: |
+  –   & S     & S solo is currently missing in \textit{Tibi soli} and \textit{Auditui}; it will be added later. \\
+  108 & vl 2  & 6th/7th \eighthNote\ in \B1: \flat e′8–d′8 \\
+  183 & vla   & grace note added by editor \\
+  328 & A rip & rhythm of 3rd \quarterNote\ in \B1: 2×\eighthNote \\
