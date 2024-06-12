@@ -7,6 +7,7 @@
 #(define option-print-all-bar-numbers #f)
 \include "ees.ly"
 
+hA = \once \override Accidental.stencil = ##f
 markCritnote = {
   \once \override Score.RehearsalMark.break-visibility = #begin-of-line-invisible
   \mark \markup \normalsize \critnote
