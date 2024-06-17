@@ -1,6 +1,6 @@
 # Changelog
 
-## 2024.06.0 – 2024-06-30
+## 2024.06.0 – 2024-06-17
 
 ### Added
 
@@ -31,6 +31,7 @@
   - D.2.9 *Dixit Dominus* (tuma-dixit-dominus-A-Wn-Mus-Hs-15679; v1.0.0, 2022-12-09)
   - D.2.16 *Memento* (tuma-de-profundis-et-memento; v1.0.0, 2022-11-22)
   - D.2.22 *Miserere* (tuma-miserere; v2.1.0, 2024-01-17; v2.0.0, 2021-12-03; v1.0, 2021-08-26)
+  - D.2.23 *Miserere* (previously unpublished)
   - F.2.8 *Ave Regina cœlorum* (tuma-ave-regina; v1.0.0, 2022-09-03)
   - F.3.2 *Salve Regina* (tuma-salve-regina-A-Ed-K-8; v2.0.0, 2021-12-03; v1.0, 2021-08-30)
   - G.1 *Stabat mater* (tuma-stabat-mater-A-Wn-Mus-Hs-15725; v1.0.0, 2023-02-23)
