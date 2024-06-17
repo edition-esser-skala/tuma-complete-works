@@ -27,6 +27,10 @@
 
 \eesTitlePage
 
+\ifthenelse{\isundefined{\MetadataCommentary}}{}{%
+\def\eesCommentaryAfterToe{\MetadataCommentary}%
+}
+
 \makeatletter%
   \ifthenelse{\isundefined{\MetadataToe}}{\ees@toefalse}{}%
   \ifthenelse{\equal{\MetadataToestyle}{movement}}%
