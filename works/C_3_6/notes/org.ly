@@ -1,9 +1,9 @@
 \version "2.24.2"
 
-C-III-VOrgano = {
+C-III-VIOrgano = {
   \relative c {
     \clef bass
-    \key g \major \time 4/4 \tempoC-III-VBonum
+    \key g \major \time 4/4 \tempoC-III-VIBonum
     \mvTr g1\pE-\soloE
     a2 fis~
     fis g4 cis
@@ -13,16 +13,16 @@ C-III-VOrgano = {
     \once \tieDashed c1~
     c2 h4 cis \noBreak
     r d g, r\fermata \bar "||"
-    \key d \major \tempoC-III-VQuam
+    \key d \major \tempoC-III-VIQuam
       d'8\fE d d d a' a a a \noBreak %10
     d, d d d g g g g
     a a \mvTr a,\p-\tasto a a a a a
     h4 r8 gis\f a a'16 g fis4
     g fis e8. d16 cis4
     d8 g a4 h g8 a %15
-    d,2 \tempoC-III-VQuamB d\pE
+    d,2 \tempoC-III-VIQuamB d\pE
     d1\fermata
-    \tempoC-III-VQuamC d8 d g g fis fis fis d \markCritnote \bar "S-S"
+    \tempoC-III-VIQuamC d8 d g g fis fis fis d \markCritnote \bar "S-S"
     \grace s8 cis cis cis a d e fis d
     g fis e a, d\fE d d d %20
     a a a a d d fis\pE fis
@@ -58,7 +58,7 @@ C-III-VOrgano = {
     h4 r8 gis\f a4 cis
     d8 g a a h4 g8 a \noBreak
     d,4 r r2\fermata \markFine \bar "||"
-    \time 3/4 \tempoC-III-VQuamD g,4\p r r \noBreak
+    \time 3/4 \tempoC-III-VIQuamD g,4\p r r \noBreak
     r8 g( g g g g) %55
     g( g g g g g)
     g( g g g g g)
@@ -81,15 +81,15 @@ C-III-VOrgano = {
     fis2.
     fis, \noBreak %75
     h\fermata \bar "||"
-    \time 4/4 \tempoC-III-VQuamE d8\fE d d d a' a a, a \noBreak
+    \time 4/4 \tempoC-III-VIQuamE d8\fE d d d a' a a, a \noBreak
     d d g\pE g fis fis fis d \markDSAF \bar "S-S"
-    \key g \major \tempoC-III-VQuia h1~\pE \noBreak
+    \key g \major \tempoC-III-VIQuia h1~\pE \noBreak
     h %80
     c~
     c~
     c2 cis4 r \noBreak
     r d g, r\fermata \bar "||"
-    \tempoC-III-VAmen g'8\pE a h fis g a h fis \noBreak %85
+    \tempoC-III-VIAmen g'8\pE a h fis g a h fis \noBreak %85
     g h16 c d8 d, g h,\fE c h
     a a' h a g g a g
     fis fis g g, r g'\p g g
@@ -135,7 +135,7 @@ C-III-VOrgano = {
   }
 }
 
-C-III-VBassFigures = \figuremode {
+C-III-VIBassFigures = \figuremode {
   r1
   \bo <[6 _]>2 <6>
   <5>2. <6 5>4

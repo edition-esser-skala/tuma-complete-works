@@ -18,12 +18,12 @@
         \new ChoirStaff <<
           \new Staff {
             \set Staff.instrumentName = "A"
-            \new Voice = "Alto" { \dynamicUp \C-III-VAlto }
+            \new Voice = "Alto" { \dynamicUp \C-III-VIAlto }
           }
-          \new Lyrics \lyricsto Alto \C-III-VAltoLyrics
+          \new Lyrics \lyricsto Alto \C-III-VIAltoLyrics
         >>
-        \new Staff { \C-III-VOrgano }
-        \new FiguredBass { \C-III-VBassFigures }
+        \new Staff { \C-III-VIOrgano }
+        \new FiguredBass { \C-III-VIBassFigures }
       >>
     }
   }

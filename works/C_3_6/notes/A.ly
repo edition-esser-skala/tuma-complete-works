@@ -1,9 +1,9 @@
 \version "2.24.2"
 
-C-III-VAlto = {
+C-III-VIAlto = {
   \relative c' {
     \clef treble
-    \key g \major \time 4/4 \autoBeamOff \tempoC-III-VBonum
+    \key g \major \time 4/4 \autoBeamOff \tempoC-III-VIBonum
     \mvTr d8.\pE^\solo d16 d4 g8. g16 a8 h
     fis8. fis16 fis4 r8 a a d,16 d
     c4 d8 a h h r g'
@@ -13,7 +13,7 @@ C-III-VAlto = {
     a4 a r8 a c a
     fis4. d8 g g r g \noBreak
     g d r4 r2\fermata \bar "||"
-    \key d \major \tempoC-III-VQuam R1*6 %15
+    \key d \major \tempoC-III-VIQuam R1*6 %15
     r2 a'4. a8
     fis4 g8([ a)] d,4 d\fermata
     a'8 g16([ fis)] e8 d16([ cis)] d4~ d32[ a h cis] \tuplet 3/2 8 { d16[ e fis] } \markCritnote \bar "S-S"
@@ -45,7 +45,7 @@ C-III-VAlto = {
     d4 r r2
     R1*4 %52
     R1\fermata \markFine \bar "||"
-    \time 3/4 \tempoC-III-VQuamD g4 d4. h8 \noBreak
+    \time 3/4 \tempoC-III-VIQuamD g4 d4. h8 \noBreak
     g2 g4 %55
     e'~ e16[ g f g] e8[ g]
     d4~ d16[ g fis g] d8[ g]
@@ -68,15 +68,15 @@ C-III-VAlto = {
     h4. a16[ g] fis8[ e]
     d4 cis2 \noBreak %75
     h2.\fermata \bar "||"
-    \time 4/4 \tempoC-III-VQuamE R1 \noBreak
+    \time 4/4 \tempoC-III-VIQuamE R1 \noBreak
     a'8 g16([ fis)] e8 d16([ cis)] d4~ d32[ a h cis] \tuplet 3/2 8 { d16[ e fis] } \markDSAF \bar "S-S"
-    \key g \major \tempoC-III-VQuia g4 g d8 d d d16 e \noBreak
+    \key g \major \tempoC-III-VIQuia g4 g d8 d d d16 e \noBreak
     f8. f16 f4 f8 f g d %80
     e4 e r e8 e
     a8. a16 a4 a8. a16 c8 a
     fis!4 fis r g8 g \noBreak
     g d r4 r2\fermata \bar "||"
-    \tempoC-III-VAmen g4~ g16[ d h' a] g4~ g16[ d h' a] \noBreak %85
+    \tempoC-III-VIAmen g4~ g16[ d h' a] g4~ g16[ d h' a] \noBreak %85
     g8[ fis16 e] d[ c h a] h8 g r4
     R1*5 %91
     g'4~ g16[ d h' a] g4~ g16[ d h' a]
@@ -111,7 +111,7 @@ C-III-VAlto = {
   }
 }
 
-C-III-VAltoLyrics = \lyricmode {
+C-III-VIAltoLyrics = \lyricmode {
   Bo -- num est con -- fi -- te -- ri
   Do -- mi -- no et psal -- le -- re
   no -- mi -- ni tu -- o, Al --

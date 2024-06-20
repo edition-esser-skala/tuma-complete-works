@@ -14,7 +14,7 @@
   - C.2.7 *Regis superni nuntia* (tuma-regis-superni-nuntia-A-Wn-Mus-Hs-15681; v1.0.0, 2023-02-07)
   - C.2.8 *Placare Christe servulis* (tuma-placare-christe-servulis; v2.0.0, 2021-12-03; v1.0, 2021-10-11)
   - C.3.4 *O magnum mysterium* (tuma-o-magnum-mysterium; v1.0.0, 2022-07-21)
-  - C.3.5 *Bonum est confiteri* (tuma-bonum-est-confiteri; v1.0.0, 2022-11-01)4
+  - C.3.6 *Bonum est confiteri* (tuma-bonum-est-confiteri; v1.0.0, 2022-11-01)
   - C.3.7 *O quam suavis est* (tuma-o-quam-suavis-est-A-Wn-Mus-Hs-15714; v1.0.0, 2023-03-19)
   - C.3.8 *Vilescit mihi mundus* (tuma-vilescit-mihi-mundus; v1.0.0, 2022-07-27)
   - C.3.9 *Per labra nectar bibitur* (tuma-per-labra-nectar-A-Wn-Mus-Hs-15709; v1.0.0, 2023-02-06)

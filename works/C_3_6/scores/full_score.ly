@@ -43,33 +43,33 @@
             \set GrandStaff.instrumentName = "Violino"
             \new Staff {
               \set Staff.instrumentName = "I"
-              \C-III-VViolinoI
+              \C-III-VIViolinoI
             }
             \new Staff {
               \set Staff.instrumentName = "II"
-              \C-III-VViolinoII
+              \C-III-VIViolinoII
             }
           >>
           \new Staff {
             \set Staff.instrumentName = "Viola"
-            \C-III-VViola
+            \C-III-VIViola
           }
         >>
         \new ChoirStaff <<
           \new Staff {
             \incipit "Alto" "alto" #-15.8 #-2.8
-            \new Voice = "Alto" { \dynamicUp \C-III-VAlto }
+            \new Voice = "Alto" { \dynamicUp \C-III-VIAlto }
           }
-          \new Lyrics \lyricsto Alto \C-III-VAltoLyrics
+          \new Lyrics \lyricsto Alto \C-III-VIAltoLyrics
         >>
         \new StaffGroup <<
           \new Staff {
             \set Staff.instrumentName = \markup \center-column { "Organo" "e Bassi" }
             % \transpose c c,
-            \C-III-VOrgano
+            \C-III-VIOrgano
           }
         >>
-        \new FiguredBass { \C-III-VBassFigures }
+        \new FiguredBass { \C-III-VIBassFigures }
       >>
       \layout { }
       \midi { \tempo 4 = 70 } % 105 (Amen)

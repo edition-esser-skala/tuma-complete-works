@@ -12,7 +12,7 @@
     \paper { page-count = #3 }
     \score {
       <<
-        \new Staff { \C-III-VViolinoI }
+        \new Staff { \C-III-VIViolinoI }
       >>
     }
   }

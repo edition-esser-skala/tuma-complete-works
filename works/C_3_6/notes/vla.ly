@@ -1,20 +1,20 @@
 \version "2.24.2"
 
-C-III-VViola = {
+C-III-VIViola = {
   \relative c' {
     \clef alto
-    \key g \major \time 4/4 \tempoC-III-VBonum
+    \key g \major \time 4/4 \tempoC-III-VIBonum
     R1*8 \noBreak %8
     R1\fermata \bar "||"
-    \key d \major \tempoC-III-VQuam d8\fE d a a a cis cis a \noBreak %10
+    \key d \major \tempoC-III-VIQuam d8\fE d a a a cis cis a \noBreak %10
     a a a d d g e e
     e4 r8 cis\p d4 e8. e16
     d8 h r h\f a4. a'8~
     a16 g g8 d4 e a,8 e'
     d e a, a' fis h,4 a8 %15
-    a2 \tempoC-III-VQuamB r
+    a2 \tempoC-III-VIQuamB r
     R1\fermata
-    \tempoC-III-VQuamC R1 \markCritnote \bar "S-S"
+    \tempoC-III-VIQuamC R1 \markCritnote \bar "S-S"
     \grace s8 R1
     r2 d8\f d a a %20
     a cis cis a a4 r
@@ -47,7 +47,7 @@ C-III-VViola = {
     d8 h r h\f a e' e4
     fis8 d a a' fis4 h,8 a \noBreak
     a4 r r2\fermata \markFine \bar "||"
-    \time 3/4 \tempoC-III-VQuamD g4\p r r \noBreak
+    \time 3/4 \tempoC-III-VIQuamD g4\p r r \noBreak
     r8 g( g g g g) %55
     g( g g g g g)
     g( g g g g g)
@@ -70,11 +70,11 @@ C-III-VViola = {
     fis4 r r
     R2. \noBreak %75
     R\fermata
-    \time 4/4 \tempoC-III-VQuamE d8\fE a a a a cis cis a \noBreak
+    \time 4/4 \tempoC-III-VIQuamE d8\fE a a a a cis cis a \noBreak
     a4 r r2 \markDSAF \bar "S-S"
-    \key g \major \tempoC-III-VQuia R1*5 \noBreak %83
+    \key g \major \tempoC-III-VIQuia R1*5 \noBreak %83
     R1\fermata
-    \tempoC-III-VAmen R1 \noBreak %85
+    \tempoC-III-VIAmen R1 \noBreak %85
     r2 r8 g'\fE e d
     e e d c d d c h
     a d d4 r8 h\p h h
