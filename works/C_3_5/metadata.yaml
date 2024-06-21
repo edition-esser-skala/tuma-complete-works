@@ -1,0 +1,27 @@
+title: Domine in virtute tua
+subtitle: Motetto per ogni tempo
+id: TumW C.3.5
+genre: motet
+scoring: S (solo), 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15706
+    rism: 600138938
+    date: 1745
+    url: https://data.onb.ac.at/rec/AC14297601
+    license: public domain
+    principal: true
+    notes: 9 parts (S solo, vl 1 (2×), vl 2 (2×), vlc, vlne, org, maestro di cappella)
+parts:
+  S_solo: Soprano solo
+lyrics:
+  Domine in virtute tua laetabitur rex,\\
+  et super salutare tuum exultabit vehementer.\\
+  Desiderium cordis eius tribuisti ei,\\
+  et voluntate labiorum eius non fraudasti eum.\\
+  Quoniam praevenisti eum in benedictionibus dulcedinis\\
+  posuisti in capite eius coronam de lapide pretioso.\\
+  Quoniam rex sperat in Domino, et in misericordia Altissimi non commovebitur.\\
+  (\bibleverse{Ps}(21/20:2-4,8))
