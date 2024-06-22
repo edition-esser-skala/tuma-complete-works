@@ -1,0 +1,27 @@
+title: Firmamentum et refugium
+subtitle: Motettum de Tempore
+id: TumW C.3.10
+genre: motet
+scoring: S (solo), 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15710
+    rism: 600138737
+    date: 1746
+    url: https://data.onb.ac.at/rec/AC14297605
+    license: public domain
+    principal: true
+    notes: 9 parts (S solo, vl 1 (2×), vl 2 (2×), vlc, vlne, org, maestro di cappella)
+parts:
+  S_solo: Soprano solo
+lyrics:
+  Firmamentum et refugium meum,\\
+  salus et protectio mea Deus.\\
+  (\bibleverse{Ps}(18/17:3))\\[1ex]
+  Si consistant adversum me castra,\\
+  non timebo quoniam tu mecum es.\\
+  Si exurgat adversum me proelium,\\
+  in hoc ego sperabo.\\
+  (\bibleverse{Ps}(27/26:3))
