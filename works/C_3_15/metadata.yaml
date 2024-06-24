@@ -1,0 +1,40 @@
+title: O admirabile commercium
+subtitle: "Motettum de B:ma M: V:"
+id: TumW C.3.15
+genre: motet
+scoring: S (solo), 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15704
+    rism: 600138833
+    date: 1746
+    url: https://data.onb.ac.at/rec/AC14297599
+    license: public domain
+    principal: true
+    notes: 9 parts (S solo, vl 1 (2×), vl 2 (2×), vlc, vlne, org, maestro di cappella)
+toe: |
+  64  & vl 1 & grace note added by editor \\
+  136 & vl   & grace note added by editor \\
+  142 & vl   & grace note added by editor \\
+  157 & vl   & grace note added by editor \\
+  158 & vl   & grace note added by editor \\
+  159 & vl   & grace note added by editor \\
+  167 & vl   & two grace notes added by editor \\
+parts:
+  S_solo: Soprano solo
+lyrics:
+  O admirabile commercium!\\
+  Creator generis humani animatum corpus sumens\\
+  de virgine nasci dignatus est.\\
+  (Corpus antiphonalium Officii, no. 3985)\\[1ex]
+  Salve virgo puerpera,\\
+  templum trinitatis,\\
+  Angelorum gaudium,\\
+  cella puritatis,\\
+  solamen merentium,\\
+  hortus voluptatis.\\[1ex]
+  Sicut lilium inter spinas,\\
+  sic amica mea inter filias Adae.\\
+  (\bibleverse{Songs}(2:2))
