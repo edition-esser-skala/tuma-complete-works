@@ -12,7 +12,7 @@ sources:
     principal: true
     notes: full score (88 pages)
 imslp: Miserere_in_c_minor_(Tůma,_František_Ignác_Antonín)
-toestyle: movement
+tocstyle: default
 toe: |
   –  & –  & –   & Red annotations in \B1, which presumably were added
                   by later hand, have been ignored for this edition. \\

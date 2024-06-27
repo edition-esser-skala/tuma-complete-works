@@ -13,7 +13,7 @@ sources:
     principal: true
     notes: full score,
 imslp: Stabat_mater_(Tůma,_František_Ignác_Antonín)
-toestyle: movement
+tocstyle: default
 toe: |
   – & –  & –   & Red annotations in \B1, which presumably were added \newline
                  by later hand, have been ignored for this edition. \\

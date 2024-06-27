@@ -14,7 +14,7 @@ sources:
     principal: true
     notes: 18 parts (S solo, A solo, T solo, B solo, S rip, A rip, T rip, B rip, cnto, fag, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella)
 imslp: Stabat_mater_(D-Dl_Mus.2968-D-514)_(Tůma,_František_Ignác_Antonín)
-toestyle: movement
+tocstyle: default
 toe: |
   – & –  & org  & \B1 contains chords for org,
                   which have been omitted from this edition. \\

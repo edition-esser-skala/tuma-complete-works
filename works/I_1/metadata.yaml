@@ -15,7 +15,7 @@ sources:
     principal: true
     notes: full score, 23 pages
 imslp: Lamentationes_Ieremiae_Prophetae_(Tůma,_František_Ignác_Antonín)
-toestyle: movement
+tocstyle: default
 toe: |
   – & –     & org & The organ part and bass figures have been
                     added by the editor. \\

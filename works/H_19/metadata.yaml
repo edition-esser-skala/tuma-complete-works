@@ -14,7 +14,7 @@ sources:
     principal: true
     notes: 18 parts (S solo, A solo, T solo, B solo, S rip, A rip, T rip, B rip, cnto, fag, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella)
 imslp: Litaniae_Lauretanae_(Tůma,_František_Ignác_Antonín)
-toestyle: movement
+tocstyle: default
 toe: |
   1 & 15  & trb 1, A & 1st \quarterNote\ in \B1: \flat e′4 \\
   2 & 13  & cnto, vl1, S & 3rd \quarterNote\ in \B1: c″4 \\

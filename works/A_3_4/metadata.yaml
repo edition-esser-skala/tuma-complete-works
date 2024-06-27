@@ -13,7 +13,7 @@ sources:
     principal: true
     notes: full score, 52 pages
 imslp: Missa_Sancti_Stephani_(Tůma,_František_Ignác_Antonín)
-toestyle: movement
+tocstyle: default
 toe: |
   3 & 20 & org     & 2nd \halfNote\ in \B1: A4–e″4 \\
     & 29 & vl 1    & last \sixteenthNote\ in \B1: g′16 \\

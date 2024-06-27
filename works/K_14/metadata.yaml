@@ -16,7 +16,7 @@ sources:
 imslp: Sinfonia_in_C_major_(Tůma,_František_Ignác_Antonín)
 parts:
   ottoni: Clarino I, II in C\\Timpani in C–G
-toestyle: movement
+tocstyle: default
 toe: |
   – & –  & org    & Bass figures have been added by the editor. \\
   1 & 12 & vl 2   & 7th \eighthNote\ in \B1: e″8 \\

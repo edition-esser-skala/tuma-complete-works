@@ -13,7 +13,7 @@ sources:
     principal: true
     notes: 7 parts (vl 1, vl 2, vlc, vlne, fag, org, maestro di cappella)
 imslp: Trio_in_A_major_(Tůma,_František_Ignác_Antonín)
-toestyle: movement
+tocstyle: default
 toe: |
   1 & 7  & vl 1 & 2nd/3rd \quarterNote\ in \B1:
                   d″16–\sharp c″16–b′8–\sharp c″16–b16–a′8 \\

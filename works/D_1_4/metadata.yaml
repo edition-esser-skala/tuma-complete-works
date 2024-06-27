@@ -15,7 +15,7 @@ sources:
     principal: true
     notes: full score, 74 pages
 imslp: Vesperae_de_Confessore_(Tůma,_František_Ignác_Antonín)
-toestyle: movement
+tocstyle: default
 toe: |
   1 & 23 & B    & 1st to 3rd \eighthNote\ in \B1: d8–d8–\sharp f8 \\
     & 30 & vl 2 & 3rd \eighthNote\ in \B1: \sharp g′8 \\

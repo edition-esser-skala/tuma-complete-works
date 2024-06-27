@@ -14,7 +14,7 @@ sources:
     principal: true
     notes: 27 parts (S solo, A solo, T solo, B solo, S rip (2×), A rip (2×), T rip (2×), B rip (3×), cnto, fag, trb 1, trb 2, vl 1 (3×), vl 2 (3×), vlc, vlne, org, maestro di cappella)
 imslp: Missa_brevis_(Tůma,_František_Ignác_Antonín)
-toestyle: movement
+tocstyle: default
 toe: |
   2 & 12   & T     & 2nd \quarterNote\ in \B1: d′16–c′16–b16–a16 \\
     & 42f  & trb 1 & in \B1, trb does not play colla parte with A,
