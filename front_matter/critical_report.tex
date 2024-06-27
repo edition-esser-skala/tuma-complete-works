@@ -32,8 +32,11 @@
 \ifthenelse{\isundefined{\MetadataToe}}{\ees@toefalse}{}%
 \makeatother
 
-\ifthenelse{\isundefined{\MetadataCommentary}}{}{%
-  \def\eesCommentaryAfterToe{\MetadataCommentary}%
+\def\acknowledgements{}
+\ifthenelse{\isundefined{\MetadataCommentary}}{
+  \def\eesCommentaryAfterToe{\acknowledgements}%
+}{%
+  \def\eesCommentaryAfterToe{\MetadataCommentary\acknowledgements}%
 }
 
 
