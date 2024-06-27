@@ -8,7 +8,7 @@
 
 \book {
   \bookpart {
-    \section "K.6 · 1" "Introduzzione"
+    \section "1" "Introduzzione"
     \addTocEntry
     \paper {
       page-count = #1

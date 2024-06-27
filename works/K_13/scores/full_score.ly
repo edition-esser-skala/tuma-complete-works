@@ -8,7 +8,7 @@
 
 \book {
   \bookpart {
-    \section "K.6 · 1" "Lamento"
+    \section "1" "Lamento"
     \addTocEntry
     \paper {
       indent = 2\cm

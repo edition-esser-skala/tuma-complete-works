@@ -6,7 +6,7 @@
 
 \book {
   \bookpart {
-    \section "G.3 · 1" "Stabat mater"
+    \section "1" "Stabat mater"
     \addTocEntry
     \paper {
       system-system-spacing.basic-distance = #22

@@ -8,7 +8,7 @@
 
 \book {
   \bookpart {
-    \section "L.2 · 1" "Andante"
+    \section "1" "Andante"
     \addTocEntry
     \paper { indent = 2\cm page-count = #3 }
     \score { %\articulate

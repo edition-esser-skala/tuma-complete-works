@@ -8,7 +8,7 @@
 
 \book {
   \bookpart {
-    \section "L.9 · 1" "Intrata"
+    \section "1" "Intrata"
     \addTocEntry
     \paper { indent = 2\cm }
     \score { %\articulate

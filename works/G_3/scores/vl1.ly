@@ -7,7 +7,7 @@
 
 \book {
   \bookpart {
-    \section "G.3 · 1" "Stabat mater"
+    \section "1" "Stabat mater"
     \addTocEntry
     \paper { systems-per-page = #6 }
     \score {

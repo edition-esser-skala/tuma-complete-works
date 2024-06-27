@@ -7,7 +7,7 @@
 
 \book {
   \bookpart {
-    \section "D.2.22 · 1" "Miserere"
+    \section "1" "Miserere"
     \addTocEntry
     \score {
       <<

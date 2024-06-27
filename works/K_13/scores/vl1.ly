@@ -7,7 +7,7 @@
 
 \book {
   \bookpart {
-    \section "K.13 · 1" "Lamento"
+    \section "1" "Lamento"
     \addTocEntry
     \paper { systems-per-page = #4 page-count = #1 }
     \score {

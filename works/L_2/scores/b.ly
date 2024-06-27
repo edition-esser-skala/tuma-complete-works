@@ -7,7 +7,7 @@
 
 \book {
   \bookpart {
-    \section "L.2 · 1" "Andante"
+    \section "1" "Andante"
     \addTocEntry
     \score {
       <<

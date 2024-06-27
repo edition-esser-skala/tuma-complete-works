@@ -13,7 +13,7 @@
 
 \book {
   \bookpart {
-    \section "G.2 · 1" "Stabat mater dolorosa"
+    \section "1" "Stabat mater dolorosa"
     \addTocEntry
     \paper { indent = 3\cm }
     \score { %\articulate
