@@ -1,0 +1,29 @@
+title: O altitudo divitiarum
+subtitle: Motetto de Tempore
+id: TumW C.3.1
+genre: motet
+scoring: S (solo), S, A, T, B (coro), cnto, fag, 2 clno (C), 2 trb, 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15716
+    rism: 600138877
+    date: 1743
+    url: https://data.onb.ac.at/rec/AC14297611
+    license: public domain
+    principal: true
+    notes: 17 parts (S solo, S rip, A rip, T rip, B rip, cnto, fag, clno 1, clno 2, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella)
+toe: |
+  –  & clno & denoted “ad libitum” in \B1 \\
+  86 & org  & 2nd \halfNote\ of upper voice in \B1: g′2 \\
+parts:
+  clno12: Clarino I, II in C
+lyrics:
+  O altitudo divitiarum\\
+  sapientiae et scientiae Dei,\\
+  quam incomprehensibilia sunt iudicia eius,\\
+  et investigabiles viae eius.\\
+  (\bibleverse{Rom}(11:33))\\[1ex]
+  Misit de alto salutare suum,\\
+  et de ligno vitam mortalibus.
