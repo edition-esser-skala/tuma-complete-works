@@ -5,6 +5,7 @@
 ### Added
 
 - works: TumW C.3.5, 10, and 15
+- a YAML key *tocstyle* which supports works with multiple movements
 
 
 ## 2024.06.0 – 2024-06-17
