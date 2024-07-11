@@ -26,4 +26,51 @@
       >>
     }
   }
+  \bookpart {
+    \section "3" "Sequentia"
+    \addTocEntry
+    \score {
+      <<
+        \new Staff { \B-ISequentiaCornetto }
+      >>
+    }
+  }
+  \bookpart {
+    \section "4" "Offertorium"
+    \addTocEntry
+    \score {
+      <<
+        \new Staff { \B-IOffertoriumCornetto }
+      >>
+    }
+  }
+  \bookpart {
+    \section "5" "Sanctus"
+    \addTocEntry
+    \paper { systems-per-page = #4 }
+    \score {
+      <<
+        \new Staff { \B-ISanctusCornetto }
+      >>
+    }
+  }
+  \bookpart {
+    \section "6" "Benedictus"
+    \addTocEntry
+    \paper { systems-per-page = #3 }
+    \score {
+      <<
+        \new Staff { \B-IBenedictusCornetto }
+      >>
+    }
+  }
+  \bookpart {
+    \section "7" "Agnus Dei"
+    \addTocEntry
+    \score {
+      <<
+        \new Staff { \B-IAgnusCornetto }
+      >>
+    }
+  }
 }

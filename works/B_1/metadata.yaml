@@ -1,5 +1,4 @@
 title: Messa della morte
-subtitle: Introitus and Kyrie
 id: TumW B.1
 genre: requiem
 scoring: S, A, T, B (solo), S, A, T, B (coro), cnto, fag, 2 clno (C), 2 trb, 2 vl, b, org
@@ -13,8 +12,68 @@ sources:
     url: https://data.onb.ac.at/rec/AC14297556
     license: public domain
     principal: true
-    notes: 21 parts (S solo, A solo, T solo, B solo, S rip, A rip (2×), T rip, B rip, cnto, fag, clno 1, clno 2, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella)
+    notes: "1 fascicle, comprising the Introitus and Kyrie (21 parts: S solo, A solo, T solo, B solo, S rip, A rip (2×), T rip, B rip, cnto, fag, clno 1, clno 2, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella)"
+  B2:
+    siglum: A-Wn
+    shelfmark: HK.793*
+    date: 1742
+    url: https://data.onb.ac.at/rec/AC14289336
+    license: public domain
+    notes: "3 fascicles, comprising the Dies irae (20 parts: S solo, A solo, T solo, B solo, S rip, A rip, T rip, B rip, cnto, fag, clno 1, clno 2, trb 1, trb 2, vl 1, vl 2, vlc, vlne, org, maestro di cappella), Offertorium (22 parts: A solo, T solo, S rip (2×), A rip (2×), T rip (2×), B rip (2×), cnto, fag, trb 1, trb 2, vl 1 (2×), vl 2 (2×), vlc, vlne, org, maestro di cappella), as well as Sanctus, Benedictus, and Agnus Dei (22 parts: S solo, A solo, T solo, B solo, S rip, A rip, T rip, B rip, cnto, fag, clno 1, clno 2, trb 1, trb 2, vl 1 (2×), vl 2 (2×), vlc, vlne, org, maestro di cappella)"
+  B3:
+    siglum: A-KR
+    shelfmark: D 41/11
+    rism: 600178674
+    date: 1740–1760
+    license: public domain
+    notes: 13 parts (S, A, T, B, clno 1, clno 2, trb 1, trb 2, timp, vl 1, vl 2, vlne, org)
+  D1:
+    siglum: D-Dl
+    shelfmark: Mus.2968-D-504
+    rism: 1001167112
+    date: 1890–1910
+    license: public domain
+    notes: full score, 159 pages
 tocstyle: default
+toe: |
+  – & –   & –        & Tůma's requiem has long been considered incomplete,
+                       since source \B1 only comprises an Introitus and
+                       Kyrie. However, the remaining movements have been
+                       wrongly archived under shelfmark HK.793 (\B2).
+                       Thus, they have been attributed to Georg Reutter
+                       the Younger (see P. Norbert Hofer's edition in
+                       Denkmäler der Tonkunst in Österreich, vol. 88 (1952),
+                       and his catalogue of Reutter's works, entry 46/4).
+                       By contrast, sources \B3 and \D1 comprise
+                       the complete work. \\
+  \midrule
+  3 & 143 & fag      & bar in \B2: \wholeNoteRest \\
+    & 148 & vl 2     & 2nd \eighthNote\ in \B2: c″8 \\
+    & 172 & cnto, vl 1, S & 3rd \quarterNote\ in \B2: \flat d″4
+                       (but cf. bass figures!) \\
+    & 218 & vl 2     & 2nd \halfNote\ in \B2: g′4–a′4 \\
+    & 223 & fag      & bar in \B2: \wholeNoteRest \\
+    & 245 & trb 1, A & 2nd \halfNote\ in \B2: \sharp f′4 \\
+    & 246 & fag      & bar in \B2: \wholeNoteRest \\
+    & 286 & fag, org & bar in \B2: d1. \\
+    & 291–301 & fag  & in \B2 unison with org \\
+  \midrule
+  4 & –   & –        & In \B2, he da capo of the \textit{Quam olim} is
+                       written out in A solo, vl 1/2, org, and mdc. \\
+    & 7   & trb 1, A & 1st \halfNote\ in \B2: f′8.–f′16–f′4 \\
+    & 40  & org      & last \quarterNote\ in \B2: \flat e′4 \\
+    & 56  & trb 2, T & The last \quarterNote\ in \B2 has been corrected
+                       to f′4, but the (presumably original) \flat e′4
+                       would be a more appropriate choice. \\
+  \midrule
+  5 & 14  & trb 2    & 6th/7th \quarterNote\ in \B2: \flat e′4 \\
+    & 24  & vl 2     & 2nd \eighthNote\ in \B2: f′8 \\
+  \midrule
+  7 & –   & –        & In \B2, the da capo of the \textit{Requiem} is
+                       written out in S, A, T, B solo, clno 1/2, vl 1/2,
+                       and org. \\
+    & 22  & vl 2     & 2nd \halfNote\ in \B2: d′4–\sharp e′4 \\
+    & 55  & vl 1     & 2nd \halfNote\ in \B2: d″4–d″4 \\
 imslp: Messa_della_morte_(Tůma,_František_Ignác_Antonín)
 parts:
-  clno12: Clarino I, II in C
+  clno12: Clarino I, II con sordino in C

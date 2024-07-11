@@ -26,4 +26,51 @@
       >>
     }
   }
+  \bookpart {
+    \section "3" "Sequentia"
+    \addTocEntry
+    \score {
+      <<
+        \new Staff { \B-ISequentiaTromboneII }
+      >>
+    }
+  }
+  \bookpart {
+    \section "4" "Offertorium"
+    \addTocEntry
+    \score {
+      <<
+        \new Staff { \B-IOffertoriumTromboneII }
+      >>
+    }
+  }
+  \bookpart {
+    \section "5" "Sanctus"
+    \addTocEntry
+    \paper { systems-per-page = #4 }
+    \score {
+      <<
+        \new Staff { \B-ISanctusTromboneII }
+      >>
+    }
+  }
+  \bookpart {
+    \section "6" "Benedictus"
+    \addTocEntry
+    \paper { systems-per-page = #3 }
+    \score {
+      <<
+        \new Staff { \B-IBenedictusTromboneII }
+      >>
+    }
+  }
+  \bookpart {
+    \section "7" "Agnus Dei"
+    \addTocEntry
+    \score {
+      <<
+        \new Staff { \B-IAgnusTromboneII }
+      >>
+    }
+  }
 }

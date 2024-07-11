@@ -26,4 +26,55 @@
       >>
     }
   }
+  \bookpart {
+    \section "3" "Sequentia"
+    \addTocEntry
+    \score {
+      <<
+        \new Staff { \B-ISequentiaOrgano }
+        \new FiguredBass { \B-ISequentiaBassFigures }
+      >>
+    }
+  }
+  \bookpart {
+    \section "4" "Offertorium"
+    \addTocEntry
+    \score {
+      <<
+        \new Staff { \B-IOffertoriumOrgano }
+        \new FiguredBass { \B-IOffertoriumBassFigures }
+      >>
+    }
+  }
+  \bookpart {
+    \section "5" "Sanctus"
+    \addTocEntry
+    \paper { systems-per-page = #3 }
+    \score {
+      <<
+        \new Staff { \B-ISanctusOrgano }
+        \new FiguredBass { \B-ISanctusBassFigures }
+      >>
+    }
+  }
+  \bookpart {
+    \section "6" "Benedictus"
+    \addTocEntry
+    \score {
+      <<
+        \new Staff { \B-IBenedictusOrgano }
+        \new FiguredBass { \B-IBenedictusBassFigures }
+      >>
+    }
+  }
+  \bookpart {
+    \section "7" "Agnus Dei"
+    \addTocEntry
+    \score {
+      <<
+        \new Staff { \B-IAgnusOrgano }
+        \new FiguredBass { \B-IAgnusBassFigures }
+      >>
+    }
+  }
 }
