@@ -1,0 +1,50 @@
+title: Qui charitate accensus
+subtitle: Motettum de tempore
+id: TumW C.3.2
+genre: motet
+scoring: T (solo), S, A, T, B (coro), cnto, fag, 2 clno (C), [2 trb], timp (C–G), 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15717
+    rism: 600138920
+    date: 1745
+    url: https://data.onb.ac.at/rec/AC14297612
+    license: public domain
+    principal: true
+    notes: 15 parts (T solo, S rip, A rip, T rip, B rip, cnto, fag, clno 1, clno 2, trb 1, trb 2, vl 1, vl 2, vlc (2×), org, maestro di cappella)
+toe: |
+  – & trb 1/2 & Parts are missing in \B1 and thus have been added by the editor. \\
+parts:
+  ottoni: Clarino I, II in C\\Timpani in C–G
+  T_solo: Tenore solo
+lyrics:
+  Qui charitate accensus Deum\\
+  prae omnibus exquirit,\\
+  triumphar emicat inter sydera.\\
+  Non illum corrumpit mundi vanitas,\\
+  non gloriae obscurat splendor\\
+  blanda voluptate superior,\\
+  ipsa etiam devincit Tartara.\\[1ex]
+  O divinae charitatis fax,\\
+  qualis inter sydera\\
+  solis pura micat lux,\\
+  talis inter coetera\\
+  virtutum libamina\\
+  fulges tu praestantia.\\[1ex]
+  Amans Dominum in se armatus,\\
+  labis expers corpus lacerat ipse tyrannus,\\
+  ipse sibi carnifex,\\
+  scelera quae non patravit\\
+  pius ultor expiat.\\[1ex]
+  Quamvis insons carnem scindit\\
+  nec saevire desinit,\\
+  dat exempla sui tortor\\
+  clara poenitentiae.\\
+  Haec noxii sequantur\\
+  qui crimine foedantur.\\[1ex]
+  Sanctum pii iuvenum\\
+  colant innocentem,\\
+  quos peccata maculant\\
+  colant poenitentem.
