@@ -14,20 +14,39 @@ sources:
     license: public domain
     principal: true
     notes: 7 parts (A solo, trb, vl 1, vl 2, vlc, org, maestro di cappella)
+  B2:
+    siglum: A-LA
+    shelfmark: 525
+    rism: 603002305
+    date: 1760–1768
+    license: public domain
+    notes: 6 parts (A solo, trb, vl 1, vl 2, vlne, org)
 imslp: Regis_superni_nuntia_(Tůma,_František_Ignác_Antonín)
 parts:
   A_solo: Alto solo
   trb: Trombone solo
+toe: |
+  – & – & \B2 shows small differences in rhythm, articulation, and dynamics,
+          which are not annotated here. Notably, it contains different lyrics
+          (“O altitudo gloriae …”) and thus is denoted “de tempore”
+          on the title page. \\
 lyrics:
-  \begin{multicols}{2}
   Regis superni nuntia\\
   domum paternam deseris,\\
   terris Teresa barbaris\\
-  Christum datura aut sanguinem.\\
-  ~\\
+  Christum datura aut sanguinem.\\[1ex]
   Sit laus Patri cum Filio\\
   et Spiritu Paraclyto,\\
   tibique Sancta Trinitas\\
-  nunc et per omne saeculum.\\
-  (Liber Hymnarius 1983, p. 455)
-  \end{multicols}
+  nunc et per omne saeculum.\\[1ex]
+  (Cantus Index a01575)
+
+# O altitudo gloriae
+# Jesu fons affluentiae
+# qui nullum unquam deseris
+# sed semper cunctis pronum cor aperis,
+# nos de valle miseriae
+# benignus quoque suscipe
+# o infinita DEItas
+# et summa vera bonitas.
+# Alleluia.
