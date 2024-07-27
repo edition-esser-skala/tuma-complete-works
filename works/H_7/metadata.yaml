@@ -1,0 +1,31 @@
+title: Litaniæ lauretanæ
+id: TumW H.7
+genre: litany
+scoring: S, A, T, B (coro), S, A, T, B (coro), 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-MT
+    shelfmark: 52 L.
+    rism: 600251988
+    license: public domain
+    principal: true
+    notes: 7 parts (S, A, T, B, vl 1, vl 2, org)
+toe: |
+  47  & B    & 2nd/3rd \quarterNote\ in \B1: b4–a4 \\
+  54  & vl 2 & 1st \quarterNote\ in \B1: a′4 \\
+  56  & org  & 1st \quarterNote\ in \B1: c4 \\
+  88  & A    & 2nd/3rd \quarterNote\ in \B1: g′4–\sharp f′4 \\
+  93  & T    & 1st \halfNote\ in \B1: g2 \\
+  94  & vl 1 & 2nd/3rd \quarterNote\ in \B1: g′2 \\
+  103 & vl 2 & 3rd \quarterNote\ in \B1: \sharp f′4 \\
+  105 & S    & 6th \eighthNote\ in \B1: g′8 \\
+  118 & vl 2 & bar missing in \B1 \\
+  121 & S    & bar in \B1: g′2–g′4 \\
+  130 & vl 1 & 1st \quarterNote\ in \B1: c″8–c″8 \\
+  130 & S    & 1st \quarterNote\ in \B1: c″4 \\
+  148–152 & org & treble ottavo clef added by editor \\
+  150 & vl 1 & 1st \halfNote\ in \B1: c″2 \\
+  150 & vl 2 & 4th \quarterNote\ in \B1: g′4 \\
+  153 & S    & 4th \quarterNote\ in \B1: b′4 \\
+  161 & vl 2 & 2nd \halfNote\ in \B1: e′2 \\
