@@ -1,5 +1,23 @@
 # Changelog
 
+## 2024.07.0 – 2024-07-28
+
+### Added
+
+- works: TumW B.1 (Sequentia to Agnus), C.3.1/2, and H.7
+- a YAML key *acknowledgements* which supports per-work acknowledgements
+- a make target 'preface' which typesets the preface
+
+### Changed
+
+- TumW C.2.7 now also uses the A-LA source.
+- For each work, a separate MIDI archive is now created.
+
+### Fixed
+
+- TumW C.3.13: catalogue of works number (previously was C.3.12)
+
+
 ## 2024.06.1 – 2024-06-30
 
 ### Added
