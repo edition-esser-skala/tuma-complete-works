@@ -1,0 +1,19 @@
+title: Miserere
+id: TumW D.2.24
+genre: psalm
+scoring: 2 T, 2 B (solo), S, A, T, B (coro), 2 trb, 2 vl, vlc, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: I-Bc
+    shelfmark: KK.239
+    date: 1750
+    url: https://www.museibologna.it/musica/gaspari/scheda/&id=5676
+    license: public domain
+    principal: true
+    notes: full score, 28 pages
+imslp:
+tocstyle: default
+toe: |
+  – & – & trb & In \B1, trb 1/2 are only explicitly indicated as solo istruments in XXX. Here, they also play colla parte with A and T, respectively, in tutti sections. \\
+parts:
