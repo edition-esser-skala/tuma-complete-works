@@ -1,0 +1,18 @@
+\version "2.24.2"
+
+tempoC-III-XXVIIIa = \tempoTitleMarkup "Recitativo" "Andante ô Larghetto"
+tempoC-III-XXVIIIb = \tempoMarkup "Adagio"
+tempoC-III-XXVIIIc = \tempoTitleMarkup "Aria" "Allegretto"
+tempoC-III-XXVIIId = \tempoMarkup "Larghetto"
+tempoC-III-XXVIIIe = \tempoTitleMarkup "Chorus" "Adagio"
+tempoC-III-XXVIIIf = \tempoMarkup "Tempo moderato"
+
+\include "notes/clno1.ly"
+\include "notes/clno2.ly"
+\include "notes/vl1.ly"
+\include "notes/vl2.ly"
+\include "notes/S.ly"
+\include "notes/A.ly"
+\include "notes/T.ly"
+\include "notes/B.ly"
+\include "notes/org.ly"

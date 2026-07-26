@@ -1,0 +1,59 @@
+title: Venite mortalium
+id: TumW C.3.28
+genre: motet
+festival: de Sancto vel Sancta
+scoring: S (solo), S, A, T, B (coro), 2 clno, 2 vl, b, org
+ark: 68748/e1fitc328
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-GÖ
+    shelfmark: 3593
+    date: 1760
+    license: public domain
+    principal: true
+toe: |
+  60     & S       & 3rd \quarterNote\ in \B1: f″4 \\
+  87     & S       & \B1 contains the following cadence:\newline
+                     \includegraphics{snippet_C_3_28.pdf} \\
+  114–119 & coro   & The S and A/T/B parts comprise different lyrics. \\
+  119     & T      & last \eighthNote\ in \B1: c′8 \\
+  122     & clno 1 & 3rd \quarterNote\ in \B1: c″4 \\
+  123     & S      & 1st to 3rd \quarterNote\ in \B1: d″4–\sharp c″4–d″4 \\
+  149     & B      & 2nd \halfNote\ in \B1: c2 \\
+parts:
+  clno12: Clarino I, II in C
+lyrics: |
+  Venite mortalium accaelitum turbae\\
+  misericordiae Matrem Mariam,\\
+  precibus flectite Reginam Virginem\\
+  colite Maria audiet.\\[1ex]
+  O Maria,\\
+  nos damus gloriam,\\
+  da nobis gratiam\\
+  instantes conspicis,\\
+  fac dignos coelicis\\
+  nos tuis muneribus,\\
+  tua ope tua prece\\
+  nos mundum spernere\\
+  et coelum quaerere\\
+  semper adjuva.\\
+  Maria Mater misericordiae\\[1ex]
+  doce nos vincere\\
+  animae hostes ac spernere,\\
+  in tuis meritis nostra sit spes,\\
+  tuo auxilio nostra stat res.\\[1ex]
+  [S tutti]\\
+  Vos ergo miseri\\
+  ad vestram hanc Reginam\\
+  ad Matrem ac Mariam.\\
+  Corde puro accurite,\\
+  gratias poscite,\\
+  precibus refundite.\\[1ex]
+  [A, T, B tutti]\\
+  Nunc canamus pariter\\
+  aeque ac dulciter\\
+  et pie veneremur hunc Sanctum [or: hanc Sanctam].\\
+  Cuius sanctimoniam\\
+  stupentibus oculis\\
+  cernite et colite.
