@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026.07.0 – 2026-08-01
+
+### Added
+
+- works: TumW C.3.25/26/28, D.1.3, D.2.16/18/S2, E.5.S3, and G.S1
+- a global macro `\brkBeam`
+
+
 ## 2026.05.0 – 2026-05-30
 
 ### Added
