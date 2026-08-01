@@ -1,0 +1,17 @@
+composer:
+  last: Anonymous
+title: Laudate Dominum
+id: TumW D.2.S2
+genre: psalm
+scoring: S, A, T, B (solo), S, A, T, B (coro), 2 vl, b, org
+ark: 68748/e1fitd2s2
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-LA
+    shelfmark: 583
+    rism: 603002308
+    license: public domain
+    principal: true
+toe: |
+  4 & B & 2nd/3rd \eighthNote\ in \B1: d8–e8 \\
