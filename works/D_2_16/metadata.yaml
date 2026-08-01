@@ -1,0 +1,24 @@
+title: Laudate pueri
+id: TumW D.2.16
+genre: psalm
+scoring: S, A, T, 2 B (solo), S, A, T, B (coro), cnto, fag, 2 trb, 2 vl, b, org
+ark: 68748/e1fitd216
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.15689
+    rism: 600138732
+    date: 1744
+    url: https://data.onb.ac.at/rec/AC14297584
+    license: public domain
+    principal: true
+toe: |
+  171 & vl 1  & 7th \sixteenthNote\ in \B1: b″16 \\
+  172 & vl    & grace note added by editor \\
+  184 & vl 1  & 7th \sixteenthNote\ in \B1: b″16 \\
+  202 & vl 2  & 4th \quarterNote\ in \B1: \sharp g′8–\sharp f′8 \\
+  216 & –     & “Grave” only appears in vl 1 \\
+  304 & trb 2 & 2nd \halfNote\ in \B1: b4.–b8 \\
+  321 & org   & 2nd \eighthNote\ in \B1: f′8 \\
+  330 & cnto, vl 1, S & 2nd \halfNote\ in \B1: c″–\crotchetRest \\
