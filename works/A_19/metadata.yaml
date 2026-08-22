@@ -1,0 +1,27 @@
+title: Missa Veni Pater pauperum
+id: TumW A.19
+genre: mass
+scoring: S, A, T, B (solo), S, A, T, B (coro),\\2 clno (C), 2 tr (C), 2 trb, timp (C–G), 2 vl, b, org
+ark: 68748/e1fita19
+license: cc-by-sa-4.0
+sources:
+  A1:
+    siglum: A-Ws
+    shelfmark: E 3/15a
+    license: public domain
+    principal: true
+  B1:
+    siglum: A-Ws
+    shelfmark: E 3/22
+    license: public domain
+    notes: Kyrie and Gloria
+  B2:
+    siglum: A-Ws
+    shelfmark: E 1/17
+    license: public domain
+    notes: Credo to Agnus
+tocstyle: default
+toe: |
+  1 & 132 & org & bar in \A1 and \B1: A2. \\
+parts:
+  ottoni: Clarino I, II in C\\Tromba I, II in C\\Timpani in C–G
