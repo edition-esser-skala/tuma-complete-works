@@ -22,6 +22,12 @@ sources:
     notes: Credo to Agnus
 tocstyle: default
 toe: |
-  1 & 132 & org & bar in \A1 and \B1: A2. \\
+  1 & 132 & org    & bar in \A1 and \B1: A2. \\
+  2 & 17f & tr     & bars in \A1 and \B1: 2 × \wholeNoteRest \\
+    & 35f & tr     & bars in \A1 and \B1: 2 × \wholeNoteRest \\
+    & 69  & vl 1   & 10th \sixteenthNote\ in \A1 and \B1: d′16 \\
+    & 143 & clno 2 & 1st \halfNote\ in \A1 and \B1: c″2 \\
+    & 237 & vl     & bar in \A1: \wholeNoteRest \\
+    & 244 & S      & 2nd \eighthNote\ in \A1 and \B1: a′8 \\
 parts:
   ottoni: Clarino I, II in C\\Tromba I, II in C\\Timpani in C–G

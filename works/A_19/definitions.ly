@@ -1,5 +1,12 @@
 \version "2.24.2"
 
+\layout {
+  \context {
+    \Staff
+    \accidentalStyle modern
+  }
+}
+
 % markOsannaDaCapo = {
 %   \once \override Score.RehearsalMark.self-alignment-X = #RIGHT
 %   \mark \markup \remark "Osanna da capo"
@@ -10,14 +17,12 @@ tempoA-XIXChriste = \tempoMarkup "Largo"
 tempoA-XIXKyrieFuga = \tempoMarkup "Grave"
   tempoA-XIXKyrieFugaB = \tempoMarkup "Andante"
 
-% tempoA-XIXGloria = \tempoMarkup "[Allegro]"
-%   tempoA-XIXLaudamus = \tempoMarkup "Andante"
-%   tempoA-XIXAdoramus = \tempoMarkup "Adagio"
-%   tempoA-XIXGlorificamus = \tempoMarkup "Allegro"
-% tempoA-XIXGratias = \tempoMarkup "Andante"
-% tempoA-XIXDomine = \tempoMarkup "[Allegro]"
-%   tempoA-XIXQuiTollis = \tempoMarkup "Adagio"
-%   tempoA-XIXQuiSedes = \tempoMarkup "Allegro"
+tempoA-XIXGloria = \tempoMarkup "[Allegro]"
+tempoA-XIXLaudamus = \tempoMarkup "Andante"
+tempoA-XIXDomine = \tempoMarkup "[Allegro]"
+tempoA-XIXQuiTollis = \tempoMarkup "Largo"
+tempoA-XIXSuscipe = \tempoMarkup "[Largo]"
+tempoA-XIXQuiSedes = \tempoMarkup "Allegro"
 % tempoA-XIXQuoniam = \tempoMarkup "[Allegro]"
 % tempoA-XIXCumSancto = \tempoMarkup "[Adagio]"
 %   tempoA-XIXInGloria = \tempoMarkup "[Allegro]"

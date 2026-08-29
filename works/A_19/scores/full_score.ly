@@ -114,80 +114,8 @@
   %     \midi { \tempo 4 = 70 }
   %   }
   % }
-  \bookpart {
-    \subsection "Kyrie eleison"
-    \addTocEntry
-    \score { %\articulate
-      <<
-        \new StaffGroup <<
-          \new Staff <<
-            \set Staff.instrumentName = \markup \center-column { "clno" "1, 2" }
-            \setSoloText "clno 1"
-            \setSoloIIText "clno 2"
-            \partCombine #'(0 . 10) \A-XIXKyrieFugaClarinoI \A-XIXKyrieFugaClarinoII
-          >>
-          \new Staff <<
-            \set Staff.instrumentName = \markup \center-column { "tr" "1, 2" }
-            \partCombine #'(0 . 10) \A-XIXKyrieFugaTrombaI \A-XIXKyrieFugaTrombaII
-          >>
-        >>
-        \new Staff {
-          \set Staff.instrumentName = "timp"
-          \A-XIXKyrieFugaTimpani
-        }
-        \new StaffGroup <<
-          \new GrandStaff <<
-            \set GrandStaff.instrumentName = "vl"
-            \new Staff {
-              \set Staff.instrumentName = "1"
-              \A-XIXKyrieFugaViolinoI
-            }
-            \new Staff {
-              \set Staff.instrumentName = "2"
-              \A-XIXKyrieFugaViolinoII
-            }
-          >>
-        >>
-        \new ChoirStaff <<
-          \new Staff {
-            \set Staff.instrumentName = "S"
-            \new Voice = "Soprano" { \dynamicUp \A-XIXKyrieFugaSoprano }
-          }
-          \new Lyrics \lyricsto Soprano \A-XIXKyrieFugaSopranoLyrics
-
-          \new Staff {
-            \set Staff.instrumentName = \markup \center-column { "A" "trb 1" }
-            \new Voice = "Alto" { \dynamicUp \A-XIXKyrieFugaAlto }
-          }
-          \new Lyrics \lyricsto Alto \A-XIXKyrieFugaAltoLyrics
-
-          \new Staff {
-            \set Staff.instrumentName = \markup \center-column { "T" "trb 2" }
-            \new Voice = "Tenore" { \dynamicUp \A-XIXKyrieFugaTenore }
-          }
-          \new Lyrics \lyricsto Tenore \A-XIXKyrieFugaTenoreLyrics
-
-          \new Staff {
-            \set Staff.instrumentName = "B"
-            \new Voice = "Basso" { \dynamicUp \A-XIXKyrieFugaBasso }
-          }
-          \new Lyrics \lyricsto Basso \A-XIXKyrieFugaBassoLyrics
-        >>
-        \new StaffGroup <<
-          \new Staff {
-            \set Staff.instrumentName = \markup \center-column { "org" "b" }
-            % \transpose c c,
-            \A-XIXKyrieFugaOrgano
-          }
-        >>
-        \new FiguredBass { \A-XIXKyrieFugaBassFigures }
-      >>
-      \layout { }
-      \midi { \tempo 4 = 50 } % 100
-    }
-  }
   % \bookpart {
-  %   \section "2" "Gloria"
+  %   \subsection "Kyrie eleison"
   %   \addTocEntry
   %   \score { %\articulate
   %     <<
@@ -196,6 +124,76 @@
   %           \set Staff.instrumentName = \markup \center-column { "clno" "1, 2" }
   %           \setSoloText "clno 1"
   %           \setSoloIIText "clno 2"
+  %           \partCombine #'(0 . 10) \A-XIXKyrieFugaClarinoI \A-XIXKyrieFugaClarinoII
+  %         >>
+  %         \new Staff <<
+  %           \set Staff.instrumentName = \markup \center-column { "tr" "1, 2" }
+  %           \partCombine #'(0 . 10) \A-XIXKyrieFugaTrombaI \A-XIXKyrieFugaTrombaII
+  %         >>
+  %       >>
+  %       \new Staff {
+  %         \set Staff.instrumentName = "timp"
+  %         \A-XIXKyrieFugaTimpani
+  %       }
+  %       \new StaffGroup <<
+  %         \new GrandStaff <<
+  %           \set GrandStaff.instrumentName = "vl"
+  %           \new Staff {
+  %             \set Staff.instrumentName = "1"
+  %             \A-XIXKyrieFugaViolinoI
+  %           }
+  %           \new Staff {
+  %             \set Staff.instrumentName = "2"
+  %             \A-XIXKyrieFugaViolinoII
+  %           }
+  %         >>
+  %       >>
+  %       \new ChoirStaff <<
+  %         \new Staff {
+  %           \set Staff.instrumentName = "S"
+  %           \new Voice = "Soprano" { \dynamicUp \A-XIXKyrieFugaSoprano }
+  %         }
+  %         \new Lyrics \lyricsto Soprano \A-XIXKyrieFugaSopranoLyrics
+
+  %         \new Staff {
+  %           \set Staff.instrumentName = \markup \center-column { "A" "trb 1" }
+  %           \new Voice = "Alto" { \dynamicUp \A-XIXKyrieFugaAlto }
+  %         }
+  %         \new Lyrics \lyricsto Alto \A-XIXKyrieFugaAltoLyrics
+
+  %         \new Staff {
+  %           \set Staff.instrumentName = \markup \center-column { "T" "trb 2" }
+  %           \new Voice = "Tenore" { \dynamicUp \A-XIXKyrieFugaTenore }
+  %         }
+  %         \new Lyrics \lyricsto Tenore \A-XIXKyrieFugaTenoreLyrics
+
+  %         \new Staff {
+  %           \set Staff.instrumentName = "B"
+  %           \new Voice = "Basso" { \dynamicUp \A-XIXKyrieFugaBasso }
+  %         }
+  %         \new Lyrics \lyricsto Basso \A-XIXKyrieFugaBassoLyrics
+  %       >>
+  %       \new StaffGroup <<
+  %         \new Staff {
+  %           \set Staff.instrumentName = \markup \center-column { "org" "b" }
+  %           % \transpose c c,
+  %           \A-XIXKyrieFugaOrgano
+  %         }
+  %       >>
+  %       \new FiguredBass { \A-XIXKyrieFugaBassFigures }
+  %     >>
+  %     \layout { }
+  %     \midi { \tempo 4 = 50 } % 100
+  %   }
+  % }
+  % \bookpart {
+  %   \section "2" "Gloria"
+  %   \addTocEntry
+  %   \score { %\articulate
+  %     <<
+  %       \new StaffGroup <<
+  %         \new Staff <<
+  %           \set Staff.instrumentName = \markup \center-column { "clno" "1, 2" }
   %           \partCombine #'(0 . 10) \A-XIXGloriaClarinoI \A-XIXGloriaClarinoII
   %         >>
   %         \new Staff <<
@@ -255,41 +253,62 @@
   %       \new FiguredBass { \A-XIXGloriaBassFigures }
   %     >>
   %     \layout { }
-  %     \midi { \tempo 4 = 120 } % 60 – 50 – 100
+  %     \midi { \tempo 4 = 120 }
   %   }
   % }
   % \bookpart {
-  %   \subsection "Gratias agimus tibi"
+  %   \subsection "Laudamus te"
   %   \addTocEntry
   %   \paper {
-  %     system-system-spacing.basic-distance = #20
-  %     system-system-spacing.minimum-distance = #20
-  %     systems-per-page = #4
+  %     top-system-spacing.basic-distance = #10
+  %     top-system-spacing.minimum-distance = #10
+  %     top-markup-spacing.basic-distance = #0
+  %     top-markup-spacing.minimum-distance = #0
+  %     markup-system-spacing.basic-distance = #10
+  %     markup-system-spacing.minimum-distance = #10
+  %     system-system-spacing.basic-distance = #17
+  %     system-system-spacing.minimum-distance = #17
+  %     systems-per-page = #3
   %   }
   %   \score { %\articulate
   %     <<
-  %       \new Staff \with { \smallStaffDistance } {
-  %         \set Staff.instrumentName = "a-trb"
-  %         \A-XIXGratiasTromboneI
-  %       }
-  %       \new ChoirStaff <<
+  %       \new StaffGroup <<
+  %         \new GrandStaff \with { \setGroupDistance #11 #11 } <<
+  %           \set GrandStaff.instrumentName = "vl"
+  %           \new Staff {
+  %             \set Staff.instrumentName = "1"
+  %             \A-XIXLaudamusViolinoI
+  %           }
+  %           \new Staff {
+  %             \set Staff.instrumentName = "2"
+  %             \A-XIXLaudamusViolinoII
+  %           }
+  %         >>
+  %       >>
+  %       \new ChoirStaff \with { \setGroupDistance #12 #13 } <<
   %         \new Staff {
   %           \set Staff.instrumentName = "A"
-  %           \new Voice = "Alto" { \dynamicUp \A-XIXGratiasAlto }
+  %           \new Voice = "Alto" { \dynamicUp \A-XIXLaudamusAlto }
   %         }
-  %         \new Lyrics \lyricsto Alto \A-XIXGratiasAltoLyrics
+  %         \new Lyrics \lyricsto Alto \A-XIXLaudamusAltoLyrics
+
+  %         \new Staff {
+  %           \set Staff.instrumentName = "T"
+  %           \new Voice = "Tenore" { \dynamicUp \A-XIXLaudamusTenore }
+  %         }
+  %         \new Lyrics \lyricsto Tenore \A-XIXLaudamusTenoreLyrics
   %       >>
   %       \new StaffGroup <<
   %         \new Staff {
   %           \set Staff.instrumentName = \markup \center-column { "org" "b" }
   %           % \transpose c c,
-  %           \A-XIXGratiasOrgano
+  %           \A-XIXLaudamusOrgano
   %         }
   %       >>
-  %       \new FiguredBass { \A-XIXGratiasBassFigures }
+  %       \new FiguredBass { \A-XIXLaudamusBassFigures }
   %     >>
   %     \layout { }
-  %     \midi { \tempo 4 = 90 }
+  %     \midi { \tempo 4 = 75 }
   %   }
   % }
   % \bookpart {
@@ -300,6 +319,7 @@
   %       \new StaffGroup <<
   %         \new Staff <<
   %           \set Staff.instrumentName = \markup \center-column { "clno" "1, 2" }
+  %           \setSoloText "clno 1"
   %           \partCombine #'(0 . 10) \A-XIXDomineClarinoI \A-XIXDomineClarinoII
   %         >>
   %         \new Staff <<
@@ -359,11 +379,82 @@
   %       \new FiguredBass { \A-XIXDomineBassFigures }
   %     >>
   %     \layout { }
-  %     \midi { \tempo 4 = 80 } % 55 – 110
+  %     \midi { \tempo 4 = 90 }
   %   }
   % }
   % \bookpart {
-  %   \subsection "Quoniam"
+  %   \subsection "Qui tollis"
+  %   \addTocEntry
+  %   \score { %\articulate
+  %     <<
+  %       \new StaffGroup <<
+  %         \new Staff <<
+  %           \set Staff.instrumentName = \markup \center-column { "clno" "1, 2" }
+  %           \setSoloText "clno 1"
+  %           \partCombine #'(0 . 10) \A-XIXQuiTollisClarinoI \A-XIXQuiTollisClarinoII
+  %         >>
+  %         \new Staff <<
+  %           \set Staff.instrumentName = \markup \center-column { "tr" "1, 2" }
+  %           \partCombine #'(0 . 10) \A-XIXQuiTollisTrombaI \A-XIXQuiTollisTrombaII
+  %         >>
+  %       >>
+  %       \new Staff {
+  %         \set Staff.instrumentName = "timp"
+  %         \A-XIXQuiTollisTimpani
+  %       }
+  %       \new StaffGroup <<
+  %         \new GrandStaff <<
+  %           \set GrandStaff.instrumentName = "vl"
+  %           \new Staff {
+  %             \set Staff.instrumentName = "1"
+  %             \A-XIXQuiTollisViolinoI
+  %           }
+  %           \new Staff {
+  %             \set Staff.instrumentName = "2"
+  %             \A-XIXQuiTollisViolinoII
+  %           }
+  %         >>
+  %       >>
+  %       \new ChoirStaff <<
+  %         \new Staff {
+  %           \set Staff.instrumentName = "S"
+  %           \new Voice = "Soprano" { \dynamicUp \A-XIXQuiTollisSoprano }
+  %         }
+  %         \new Lyrics \lyricsto Soprano \A-XIXQuiTollisSopranoLyrics
+
+  %         \new Staff {
+  %           \set Staff.instrumentName = "A"
+  %           \new Voice = "Alto" { \dynamicUp \A-XIXQuiTollisAlto }
+  %         }
+  %         \new Lyrics \lyricsto Alto \A-XIXQuiTollisAltoLyrics
+
+  %         \new Staff {
+  %           \set Staff.instrumentName = "T"
+  %           \new Voice = "Tenore" { \dynamicUp \A-XIXQuiTollisTenore }
+  %         }
+  %         \new Lyrics \lyricsto Tenore \A-XIXQuiTollisTenoreLyrics
+
+  %         \new Staff {
+  %           \set Staff.instrumentName = "B"
+  %           \new Voice = "Basso" { \dynamicUp \A-XIXQuiTollisBasso }
+  %         }
+  %         \new Lyrics \lyricsto Basso \A-XIXQuiTollisBassoLyrics
+  %       >>
+  %       \new StaffGroup <<
+  %         \new Staff {
+  %           \set Staff.instrumentName = \markup \center-column { "org" "b" }
+  %           % \transpose c c,
+  %           \A-XIXQuiTollisOrgano
+  %         }
+  %       >>
+  %       \new FiguredBass { \A-XIXQuiTollisBassFigures }
+  %     >>
+  %     \layout { }
+  %     \midi { \tempo 2 = 80 }
+  %   }
+  % }
+  % \bookpart {
+  %   \subsection "Suscipe"
   %   \addTocEntry
   %   \paper {
   %     system-system-spacing.basic-distance = #22
@@ -372,106 +463,106 @@
   %   }
   %   \score { %\articulate
   %     <<
-  %       \new Staff \with { \smallStaffDistance } <<
-  %         \set Staff.instrumentName = \markup \center-column { "clno" "solo" }
-  %         \A-XIXQuoniamClarinoSolo
-  %       >>
-  %       \new StaffGroup \with { \smallGroupDistance } <<
-  %         \new Staff {
-  %           \set Staff.instrumentName = \markup \center-column { "vl" "1, 2" }
-  %           \A-XIXQuoniamViolinoIeII
-  %         }
-  %       >>
-  %       \new ChoirStaff <<
-  %         \new Staff {
-  %           \set Staff.instrumentName = "B"
-  %           \new Voice = "Basso" { \dynamicUp \A-XIXQuoniamBasso }
-  %         }
-  %         \new Lyrics \lyricsto Basso \A-XIXQuoniamBassoLyrics
-  %       >>
-  %       \new StaffGroup <<
-  %         \new Staff {
-  %           \set Staff.instrumentName = \markup \center-column { "org" "b" }
-  %           % \transpose c c,
-  %           \A-XIXQuoniamOrgano
-  %         }
-  %       >>
-  %       \new FiguredBass { \A-XIXQuoniamBassFigures }
-  %     >>
-  %     \layout { }
-  %     \midi { \tempo 4 = 100 }
-  %   }
-  % }
-  % \bookpart {
-  %   \subsection "Cum Sancto Spiritu"
-  %   \addTocEntry
-  %   \score { %\articulate
-  %     <<
-  %       \new StaffGroup <<
-  %         \new Staff <<
-  %           \set Staff.instrumentName = \markup \center-column { "clno" "1, 2" }
-  %           \partCombine #'(0 . 10) \A-XIXCumSanctoClarinoI \A-XIXCumSanctoClarinoII
-  %         >>
-  %         \new Staff <<
-  %           \set Staff.instrumentName = \markup \center-column { "tr" "1, 2" }
-  %           \partCombine #'(0 . 10) \A-XIXCumSanctoTrombaI \A-XIXCumSanctoTrombaII
-  %         >>
-  %       >>
-  %       \new Staff {
-  %         \set Staff.instrumentName = "timp"
-  %         \A-XIXCumSanctoTimpani
+  %       \new Staff \with { \smallStaffDistance } {
+  %         \set Staff.instrumentName = \markup \center-column { "a-trb" "solo" }
+  %         \A-XIXSuscipeTromboneSolo
   %       }
-  %       \new StaffGroup <<
-  %         \new GrandStaff <<
-  %           \set GrandStaff.instrumentName = "vl"
-  %           \new Staff {
-  %             \set Staff.instrumentName = "1"
-  %             \A-XIXCumSanctoViolinoI
-  %           }
-  %           \new Staff {
-  %             \set Staff.instrumentName = "2"
-  %             \A-XIXCumSanctoViolinoII
-  %           }
-  %         >>
-  %       >>
   %       \new ChoirStaff <<
   %         \new Staff {
-  %           \set Staff.instrumentName = "S"
-  %           \new Voice = "Soprano" { \dynamicUp \A-XIXCumSanctoSoprano }
+  %           \set Staff.instrumentName = "T"
+  %           \new Voice = "Tenore" { \dynamicUp \A-XIXSuscipeTenore }
   %         }
-  %         \new Lyrics \lyricsto Soprano \A-XIXCumSanctoSopranoLyrics
-
-  %         \new Staff {
-  %           \set Staff.instrumentName = \markup \center-column { "A" "trb 1" }
-  %           \new Voice = "Alto" { \dynamicUp \A-XIXCumSanctoAlto }
-  %         }
-  %         \new Lyrics \lyricsto Alto \A-XIXCumSanctoAltoLyrics
-
-  %         \new Staff {
-  %           \set Staff.instrumentName = \markup \center-column { "T" "trb 2" }
-  %           \new Voice = "Tenore" { \dynamicUp \A-XIXCumSanctoTenore }
-  %         }
-  %         \new Lyrics \lyricsto Tenore \A-XIXCumSanctoTenoreLyrics
+  %         \new Lyrics \lyricsto Tenore \A-XIXSuscipeTenoreLyrics
 
   %         \new Staff {
   %           \set Staff.instrumentName = "B"
-  %           \new Voice = "Basso" { \dynamicUp \A-XIXCumSanctoBasso }
+  %           \new Voice = "Basso" { \dynamicUp \A-XIXSuscipeBasso }
   %         }
-  %         \new Lyrics \lyricsto Basso \A-XIXCumSanctoBassoLyrics
+  %         \new Lyrics \lyricsto Basso \A-XIXSuscipeBassoLyrics
   %       >>
   %       \new StaffGroup <<
   %         \new Staff {
   %           \set Staff.instrumentName = \markup \center-column { "org" "b" }
   %           % \transpose c c,
-  %           \A-XIXCumSanctoOrgano
+  %           \A-XIXSuscipeOrgano
   %         }
   %       >>
-  %       \new FiguredBass { \A-XIXCumSanctoBassFigures }
+  %       \new FiguredBass { \A-XIXSuscipeBassFigures }
   %     >>
   %     \layout { }
-  %     \midi { \tempo 4 = 60 } % 180
+  %     \midi { \tempo 2 = 80 }
   %   }
   % }
+  \bookpart {
+    \subsection "Qui sedes"
+    \addTocEntry
+    \score { %\articulate
+      <<
+        \new StaffGroup <<
+          \new Staff <<
+            \set Staff.instrumentName = \markup \center-column { "clno" "1, 2" }
+            \partCombine #'(0 . 10) \A-XIXQuiSedesClarinoI \A-XIXQuiSedesClarinoII
+          >>
+          \new Staff <<
+            \set Staff.instrumentName = \markup \center-column { "tr" "1, 2" }
+            \partCombine #'(0 . 10) \A-XIXQuiSedesTrombaI \A-XIXQuiSedesTrombaII
+          >>
+        >>
+        \new Staff {
+          \set Staff.instrumentName = "timp"
+          \A-XIXQuiSedesTimpani
+        }
+        \new StaffGroup <<
+          \new GrandStaff <<
+            \set GrandStaff.instrumentName = "vl"
+            \new Staff {
+              \set Staff.instrumentName = "1"
+              \A-XIXQuiSedesViolinoI
+            }
+            \new Staff {
+              \set Staff.instrumentName = "2"
+              \A-XIXQuiSedesViolinoII
+            }
+          >>
+        >>
+        \new ChoirStaff <<
+          \new Staff {
+            \set Staff.instrumentName = "S"
+            \new Voice = "Soprano" { \dynamicUp \A-XIXQuiSedesSoprano }
+          }
+          \new Lyrics \lyricsto Soprano \A-XIXQuiSedesSopranoLyrics
+
+          \new Staff {
+            \set Staff.instrumentName = \markup \center-column { "A" "trb 1" }
+            \new Voice = "Alto" { \dynamicUp \A-XIXQuiSedesAlto }
+          }
+          \new Lyrics \lyricsto Alto \A-XIXQuiSedesAltoLyrics
+
+          \new Staff {
+            \set Staff.instrumentName = \markup \center-column { "T" "trb 2" }
+            \new Voice = "Tenore" { \dynamicUp \A-XIXQuiSedesTenore }
+          }
+          \new Lyrics \lyricsto Tenore \A-XIXQuiSedesTenoreLyrics
+
+          \new Staff {
+            \set Staff.instrumentName = "B"
+            \new Voice = "Basso" { \dynamicUp \A-XIXQuiSedesBasso }
+          }
+          \new Lyrics \lyricsto Basso \A-XIXQuiSedesBassoLyrics
+        >>
+        \new StaffGroup <<
+          \new Staff {
+            \set Staff.instrumentName = \markup \center-column { "org" "b" }
+            % \transpose c c,
+            \A-XIXQuiSedesOrgano
+          }
+        >>
+        \new FiguredBass { \A-XIXQuiSedesBassFigures }
+      >>
+      \layout { }
+      \midi { \tempo 4 = 110 }
+    }
+  }
   % \bookpart {
   %   \section "3" "Credo"
   %   \addTocEntry
