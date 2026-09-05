@@ -1,6 +1,6 @@
 title: Perfice gressus meos
 id: TumW C.4.6
-genre: offertory
+genre: offertorium
 festival: Dominica sexagesimae
 scoring: S, A, T, B (coro), 2 vl, vla, b, org
 ark: 68748/e1fitc46
@@ -8,7 +8,7 @@ license: cc-by-sa-4.0
 sources:
   B1:
     siglum: CZ-Pu
-    shelfmark: 59 R 1640
+    shelfmark: 59 R 1640:1
     date: 1836-01-30
     rism: 551003277
     license: public domain

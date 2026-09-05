@@ -7,7 +7,7 @@ license: cc-by-sa-4.0
 sources:
   B1:
     siglum: A-Wn
-    shelfmark: Mus.Hs.15724
+    shelfmark: Mus.Hs.15724:2
     rism: 600137260
     date: 1746
     url: https://data.onb.ac.at/rec/AC14297572
@@ -18,7 +18,6 @@ sources:
     shelfmark: Mus.Hs.15700
     rism: 600138995
     date: 1746
-    url: https://data.onb.ac.at/rec/AC14297594
     license: public domain
 imslp: De_profundis_et_Memento_(Tůma,_František_Ignác_Antonín)
 toe: |

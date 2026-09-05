@@ -7,10 +7,9 @@ license: cc-by-sa-4.0
 sources:
   B1:
     siglum: A-Wn
-    shelfmark: Mus.Hs.15688/2
-    rism: 600139024
+    shelfmark: Mus.Hs.15688:2
+    rism: 1001350972
     date: 1741
-    url: https://data.onb.ac.at/rec/AC14297583
     license: public domain
     principal: true
 toe: |

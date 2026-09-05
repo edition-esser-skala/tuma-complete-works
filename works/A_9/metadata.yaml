@@ -8,7 +8,7 @@ sources:
   B1:
     siglum: A-KR
     shelfmark: B 12/316
-    date: ca. 1750
+    rism: 600178672
     license: public domain
     principal: true
   B2:
@@ -19,7 +19,7 @@ sources:
   B3:
     siglum: A-LA
     shelfmark: M 459
-    date: ca. 1750
+    rism: 603001579
     license: public domain
 tocstyle: default
 toe: |

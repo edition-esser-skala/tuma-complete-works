@@ -13,11 +13,13 @@ sources:
   B1:
     siglum: A-Ws
     shelfmark: E 3/22
+    date: 1736
     license: public domain
     notes: Kyrie and Gloria
   B2:
     siglum: A-Ws
     shelfmark: E 1/17
+    date: 1736
     license: public domain
     notes: Credo to Agnus
 tocstyle: default

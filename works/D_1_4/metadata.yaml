@@ -1,7 +1,7 @@
 title: Vesperæ de Confessore
-subtitle: Dixit Dominus · Confitebor · Beatus vir · \\Laudate pueri · Laudate Dominum · Magnificat
+subtitle: Dixit Dominus · Confitebor · Beatus vir ·\\Laudate pueri · Laudate Dominum · Magnificat
 id: TumW D.1.4
-genre: vesper
+genre: vespers
 scoring: S, A, T, B (solo), S, A, T, B (coro), cnto, fag, 2 trb, 2 vl, b, org
 ark: 68748/e1fitd14
 license: cc-by-sa-4.0
@@ -11,7 +11,6 @@ sources:
     shelfmark: Mus.Hs.15728
     rism: 600138941
     date: 1753
-    url: https://data.onb.ac.at/rec/AC14297622
     license: public domain
     principal: true
 imslp: Vesperae_de_Confessore_(Tůma,_František_Ignác_Antonín)

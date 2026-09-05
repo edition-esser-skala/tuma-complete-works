@@ -14,16 +14,15 @@ sources:
     principal: true
   B1:
     siglum: D-B
-    shelfmark: Mus.ms.autogr. Salieri, A. 4 (5)
+    shelfmark: Mus.ms.autogr. Salieri, A. 4/5
     date: 1800–1833
     rism: 464122530
-    url: https://resolver.staatsbibliothek-berlin.de/SBB00018FBF00050000
+    url: https://resolver.staatsbibliothek-berlin.de/SBB00018FBF00000000
     license: public domain
   B2:
     siglum: A-Wn
     shelfmark: Mus.Hs.15772
     rism: 600138923
-    url: https://data.onb.ac.at/rec/AC14297581
     license: public domain
 imslp: Te_lucis_ante_terminum_(Tůma,_František_Ignác_Antonín)
 lyrics:

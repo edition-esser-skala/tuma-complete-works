@@ -1,7 +1,7 @@
 title: Vesperæ de Dominica et Confessore
-subtitle: Dixit Dominus · Confitebor · Beatus vir · Laudate pueri · \\Laudate Dominum · In exitu Israel · Magnificat
+subtitle: Dixit Dominus · Confitebor · Beatus vir · Laudate pueri ·\\Laudate Dominum · In exitu Israel · Magnificat
 id: TumW D.1.3
-genre: vesper
+genre: vespers
 scoring: S, A, T, B (solo), S, A, T, B (coro), cnto, fag, 2 trb, 2 vl, b, org
 ark: 68748/e1fitd13
 license: cc-by-sa-4.0
@@ -10,7 +10,6 @@ sources:
     siglum: A-Wn
     shelfmark: Mus.Hs.15727
     rism: 600138915
-    url: https://data.onb.ac.at/rec/AC14297621
     license: public domain
     principal: true
 tocstyle: default

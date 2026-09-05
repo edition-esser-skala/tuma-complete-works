@@ -14,7 +14,7 @@ sources:
     principal: true
   B2:
     siglum: CZ-K
-    shelfmark: 125
+    shelfmark: 125:1
     rism: 1001016978
     license: public domain
 toe: |

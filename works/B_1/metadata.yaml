@@ -1,6 +1,6 @@
 title: Messa della morte
 id: TumW B.1
-genre: requiem
+genre: requiem mass
 scoring: S, A, T, B (solo), S, A, T, B (coro), cnto, fag, 2 clno (C), 2 trb, 2 vl, b, org
 ark: 68748/e1fitb1
 license: cc-by-sa-4.0
@@ -31,6 +31,7 @@ sources:
     siglum: D-Dl
     shelfmark: Mus.2968-D-504
     rism: 1001167112
+    url: https://digital.slub-dresden.de/id1888233699
     date: 1890–1910
     license: public domain
 tocstyle: default

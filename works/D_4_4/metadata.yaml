@@ -1,5 +1,4 @@
 title: Nunc dimittis
-subtitle: Canticum Simeonis
 genre: canticle
 id: TumW D.4.4
 scoring: T (solo), S, A, T, B (coro), 2 trb, 2 vl, b, org
@@ -8,9 +7,8 @@ license: cc-by-sa-4.0
 sources:
   A1:
     siglum: A-Wn
-    shelfmark: Mus.Hs.19194/4
+    shelfmark: Mus.Hs.19194:4
     rism: 600137195
-    url: https://data.onb.ac.at/rec/AC14297557
     license: public domain
     principal: true
 toe: |

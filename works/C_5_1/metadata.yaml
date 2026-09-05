@@ -1,16 +1,16 @@
 title: In monte oliveti
 id: TumW C.5.1
-genre: responsory
+genre: responsorium
 scoring: S, A, T, B (coro), b, org
 ark: 68748/e1fitc51
 license: cc-by-sa-4.0
 sources:
   B1:
     siglum: D-Dl
-    shelfmark: Mus.2968-D-513
+    shelfmark: Mus.2968-D-513:1
     rism: 1001304114
-    date: ca. 1890–1900
-    url: http://digital.slub-dresden.de/id1902244087
+    date: 1890–1900
+    url: https://digital.slub-dresden.de/id1902244087
     license: public domain
     principal: true
 lyrics: |
