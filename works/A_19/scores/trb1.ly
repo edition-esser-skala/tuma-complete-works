@@ -9,7 +9,7 @@
   \bookpart {
     \section "1" "Kyrie"
     \addTocEntry
-    \paper { system-count = #5 }
+    \paper { system-count = #6 }
     \score {
       <<
         \new Staff { \A-XIXKyrieTromboneI }
@@ -20,7 +20,6 @@
   \bookpart {
     \subsection "Kyrie eleison"
     \addTocEntry
-    \paper { page-count = #1 }
     \score {
       <<
         \new Staff { \A-XIXKyrieFugaTromboneI }
@@ -29,41 +28,54 @@
   }
   \bookpart {
     \section "2" "Gloria"
-    \paper { system-count = #6 }
     \addTocEntry
+    \paper { system-count = #5 }
     \score {
       <<
         \new Staff { \A-XIXGloriaTromboneI }
       >>
     }
-  }
-  \bookpart {
-    \subsection "Gratias agimus tibi"
-    \addTocEntry
-    \score {
-      <<
-        \new Staff { \A-XIXGratiasTromboneI }
-      >>
-    }
+    \tacet "subsection" "Laudamus te"
   }
   \bookpart {
     \subsection "Domine Deus"
     \addTocEntry
-    \paper { system-count = #7 }
+    \paper { system-count = #4 }
     \score {
       <<
         \new Staff { \A-XIXDomineTromboneI }
       >>
     }
-    \tacet "subsection" "Quoniam"
   }
   \bookpart {
-    \subsection "Cum Sancto Spiritu"
+    \subsection "Qui tollis"
     \addTocEntry
-    \paper { system-count = #7 }
+    \paper { system-count = #4 }
     \score {
       <<
-        \new Staff { \A-XIXCumSanctoTromboneI }
+        \new Staff { \A-XIXQuiTollisTromboneI }
+      >>
+    }
+  }
+  \bookpart {
+    \subsection "Suscipe"
+    \addTocEntry
+    \paper { system-count = #6 }
+    \score {
+      <<
+        \new Staff {
+          \set Staff.instrumentName = \markup \center-column { "a-trb" "solo" }
+          \A-XIXSuscipeTromboneSolo
+        }
+      >>
+    }
+  }
+  \bookpart {
+    \subsection "Qui sedes"
+    \addTocEntry
+    \score {
+      <<
+        \new Staff { \A-XIXQuiSedesTromboneI }
       >>
     }
   }
@@ -77,40 +89,29 @@
     }
   }
   \bookpart {
-    \subsection "Et incarnatus est"
-    \addTocEntry
-    \paper { system-count = #4 }
-    \score {
-      <<
-        \new Staff { \A-XIXEtIncarnatusTromboneI }
-      >>
-    }
-  }
-  \bookpart {
-    \subsection "Et resurrexit"
-    \addTocEntry
-    \score {
-      <<
-        \new Staff { \A-XIXEtResurrexitTromboneI }
-      >>
-    }
-  }
-  \bookpart {
     \section "4" "Sanctus"
     \addTocEntry
-    \paper { system-count = #7 }
+    \paper { system-count = #5 }
     \score {
       <<
         \new Staff { \A-XIXSanctusTromboneI }
       >>
     }
     \tacet "section" "Benedictus"
-    \markup { \vspace #3 \fontsize #3 \fill-line { "" "Osanna da capo" "" } }
+  }
+  \bookpart {
+    \subsection "Osanna"
+    \addTocEntry
+    \paper { system-count = #3 }
+    \score {
+      <<
+        \new Staff { \A-XIXOsannaTromboneI }
+      >>
+    }
   }
   \bookpart {
     \section "6" "Agnus Dei"
     \addTocEntry
-    \paper { system-count = #15 }
     \score {
       <<
         \new Staff { \A-XIXAgnusTromboneI }

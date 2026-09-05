@@ -405,3 +405,259 @@ A-XIXQuiSedesViolinoI = {
     c1\fermata \bar "|." %294 finis
   }
 }
+
+A-XIXCredoViolinoI = {
+  \relative c' {
+    \clef treble
+    \key c \major \time 4/4 \tempoA-XIXCredo
+    R1*3
+    c'2\fE a4 c
+    d c h c~ %5
+    c h c16 c' h c d, h' a h
+    c g f g e d c h a a' g a f e d c
+    h d' c d h a g f e g a g d g a g
+    c, g' a g h, g' a g a, a' h a h h a h
+    c8 c,16 d \appoggiatura e8 d4 c8 e d d %10
+    e4 r e4. e8
+    d4 d d8 c16 d h8 d
+    e4. d8 c4 d~
+    d c h4. h8
+    a4 r r2 %15
+    r e'4 d8 a-\critnote
+    c4 h8 h4 h8 c4
+    c d \appoggiatura c8 h2\trill
+    a16 a' gis a h, gis' fis gis a e d e c h a g
+    f! f' e f d c h a gis h' a h gis f e d %20
+    c f e d c8 h a c d h
+    c4 r e8 e e e
+    d e c4 h8 d4 c8
+    h4 c8 d e4 e8 e
+    d4. d8 e4 e %25
+    e4. e8 f4 f
+    a,8 f' f f f2
+    e d4 d
+    d8 c h a g4 g'
+    g8 f e d c4 c %30
+    d2 d4 c~ \noBreak
+    c h c2\fermata \bar "||"
+    \tempoA-XIXEtIncarnatus R1*24 %56
+    a4.\fE f'8 f4 gis,
+    e'4. e8 fis,4 d'8. f,16
+    e8 c' b4 a b!8 a
+    gis4 a2 gis4 %60
+    a r r c(
+    h) h r h(
+    a) a r a
+    gis a2 gis4 \noBreak
+    a1\fermata \bar "||" %65
+    \tempoA-XIXEtResurrexit
+      g'16\fE c, d e f g a h c c, d e f g a h \noBreak
+    c g a g f8 e d e d4
+    c8 e e d e16 c d e f g a h
+    c c, d e f g a h c8 e, e d
+    e4 d8 c d4 d8 e %70
+    g g4 fis8 g16 g, a h c d e fis
+    g g, a h c d e fis g8 g, r4
+    e'4. c'8 h e, a4
+    gis g a,8 g' f e
+    f e d4 d8. cis16 cis4 %75
+    a'8 f e d b4 a
+    d8 d r d d4 cis
+    d f8 f f4 e8 d
+    e f g g a g g4
+    g16 c, d e f g a h c c, d e f g a h %80
+    c g f e e8 d c4 r
+    R1*5 %86
+    r2 e16 e, fis g a h cis dis
+    e e, fis g a h cis dis e h cis dis e g fis e
+    fis e dis c? h a g fis g8 e r4
+    d'16\p g, a h c d e fis g g, a h c d e fis %90
+    g d e d c4 h r
+    r2 r4 c'
+    h a g f
+    e r e16 a, h c d e fis gis
+    a a, h c d e fis gis a8 a, r4 %95
+    r2 d'16 d, e f g a h cis
+    d8 d, r d~ d c16 h c4 \noBreak
+    h1\fermata
+    \tempoA-XIXEtVitam R1*7 %105
+    r2 c\fE
+    a4. h8 c2
+    r8 g a h c4. c8
+    h4 r8 h c d e d16 c
+    h8 g a h c4 c~ %110
+    c h~ h8 e, a4~
+    a gis a r
+    r r8 c a b c b16 a
+    g8 e f g a4 g
+    g r r2 %115
+    R1*3
+    r2 r4 c
+    a4. h8 c8 g a h %120
+    c d e d16 c h2
+    g2. c4~
+    c h8 a h2
+    c1\fermata \bar "|." %124 finis
+  }
+}
+
+A-XIXSanctusViolinoI = {
+  \relative c' {
+    \clef treble
+    \key c \major \time 4/4 \tempoA-XIXSanctus
+    c'1\fE
+    h2 g'16 d d8~ d16 h h g
+    g4 r h'2
+    c a16 e \once \tieDashed e8~ e16 c c a
+    a4 r a'2 %5
+    h16 gis gis8~ gis16 e e h e,8 e' e e
+    e4 e g8 g g g \noBreak
+    a4. a8 g2\fermata \bar "||"
+    \time 3/4 \tempoA-XIXPleni R2. \noBreak
+    e4 d g %10
+    e e r
+    e d g
+    e e d
+    e e e
+    e d2~ %15
+    d4 c2~
+    c4 h2~
+    h4 a2
+    a2.
+    gis %20
+    e'2 e4
+    d2.
+    d2 d4
+    c2 r4
+    c8 d16 e f8 e d c %25
+    h2 c4~
+    c c h
+    g'8 a16 h c8 h a g
+    a g a h c4~
+    c c^\critnote h %30
+    c2 g4
+    a g e
+    a a2
+    g2.\fermata \bar "|." %34 finis
+  }
+}
+
+A-XIXBenedictusViolinoIeII = {
+  \relative c' {
+    \clef treble
+    \key e \minor \time 4/4 \tempoA-XIXBenedictus
+    h''4.\fE a8 g16 e fis g fis h, a h
+    g e' fis g fis h, a h g e' dis e h fis' e fis
+    h, g' fis g e a g a h8 h, r h'
+    h16 c d! c h a gis fis e a gis a h, gis' fis gis
+    a8 a, r a' a16 h c h a g fis e %5
+    d g fis g a, fis' e fis g8 g, r16 h' a h
+    e,4~ e16 a g fis g4~ g16 g fis g
+    f4~ f16 f e dis e c' h a g fis? e dis!
+    e h c a g8 fis e4 r
+    R1 %10
+    r2 r16 e' fis g fis h, a h
+    g e' fis g fis h, a h g4 r
+    r16 g' a h a d, c d h g' a h a d, c d
+    h4 r r16 g'\p fis g c,4
+    r16 a' g a d,4 r16 h' a h e,4 %15
+    r16 d' c d d,4 r16 g a h a d, c d
+    h g' a h a d, c d h4 r
+    R1
+    r2 fis'4.\f e8
+    d16 h cis d cis fis, e fis d h' cis d cis fis, e fis %20
+    d h' ais h fis cis' h cis fis, d' cis d h e d e
+    fis8 fis, r4 r2
+    r16 e'\p fis g g, g a h e,4 r
+    r16 fis' g a d, d e f e8 c a4\trill
+    g16 h c d g,4 r2 %25
+    r16 dis' e fis e4 c'~ c16 c h a
+    h4~ h16 h a g a4~ a16 a g fis
+    h,4 e dis16 dis e fis h,8 r
+    R1*2 %30
+    r2 r16 e\f dis e h fis' e fis
+    h, g' fis g e a g a h8 h, r h'
+    h16 c d! c h a gis fis e a gis a h, gis' fis gis
+    a8 a, r a' a16 h c h a g fis e
+    d g fis g a, fis' e fis g8 g, r16 h' a h %35
+    e,4~ e16 a g fis g4~ g16 g fis g
+    f4~ f16 f e dis e c' h a g fis? e dis
+    e h c a g8 fis e4 r\fermata \bar "||" %38 finis
+  }
+}
+
+A-XIXOsannaViolinoI = {
+  \relative c' {
+    \clef treble
+    \key c \major \time 4/4 \tempoA-XIXOsanna
+      \set Score.currentBarNumber = #39
+    R1
+    c''2\fE h8 a h g %40
+    a2 g4 r
+    R1*4 %45
+    r2 c,
+    h8 a h g a2
+    g4 c d e
+    c2 h4 r
+    R1*2 %51
+    c2 h8 a h g
+    a4 h c e
+    d e d2
+    d e\fermata \bar "|." %55 finis
+  }
+}
+
+A-XIXAgnusViolinoI = {
+  \relative c' {
+    \clef treble
+    \key c \major \time 4/4 \tempoA-XIXAgnus
+    e'4\fE e d2~
+    d4 c r c
+    f d e e
+    e4. e8 e2
+    cis cis8 cis cis cis %5
+    d4 d dis4. dis8
+    e h e2 dis4
+    e r r2
+    R1*4 %12
+    r2 e4\fE e
+    d d8 d d4 d
+    e g a8 a f4 %15
+    e8 e e e c2 \noBreak
+    h1\fermata \bar "||"
+    \tempoA-XIXDona R1*3 %20
+    r2 r8 c4 c8
+    d d16 c h8 a h4 h
+    r8 c16 b a8 g a h c4~
+    c h c8 e4 d16 c
+    h2 c8 c16 h a8 g %25
+    a d16 c h8 a g4 r
+    R1
+    c2 e
+    c d
+    h c4 h %30
+    a2 g8 d'4 d8
+    e e16 d c8 h c4 c
+    d8 d16 c h8 a h4 c
+    c h c2
+    a4. d8 h4. d8 %35
+    g,2 f4 e
+    r2 a
+    c h4 e~
+    e d e r
+    r8 e16 d c8 h c4 c %40
+    r8 d16 c h8 a h4 h
+    c2 h
+    R1*2
+    c2 d %45
+    h c
+    a g4 r
+    r8 e'16 d c8 h c4 c
+    r2 d
+    e c %50
+    d h
+    r8 c16 h a8 g a h c4~
+    c h8 a h2
+    c1\fermata \bar "|." %54 finis
+  }
+}

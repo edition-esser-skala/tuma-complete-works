@@ -7,11 +7,6 @@
   }
 }
 
-% markOsannaDaCapo = {
-%   \once \override Score.RehearsalMark.self-alignment-X = #RIGHT
-%   \mark \markup \remark "Osanna da capo"
-% }
-
 tempoA-XIXKyrie = \tempoMarkup "Andante"
 tempoA-XIXChriste = \tempoMarkup "Largo"
 tempoA-XIXKyrieFuga = \tempoMarkup "Grave"
@@ -23,25 +18,20 @@ tempoA-XIXDomine = \tempoMarkup "[Allegro]"
 tempoA-XIXQuiTollis = \tempoMarkup "Largo"
 tempoA-XIXSuscipe = \tempoMarkup "[Largo]"
 tempoA-XIXQuiSedes = \tempoMarkup "Allegro"
-% tempoA-XIXQuoniam = \tempoMarkup "[Allegro]"
-% tempoA-XIXCumSancto = \tempoMarkup "[Adagio]"
-%   tempoA-XIXInGloria = \tempoMarkup "[Allegro]"
 
-% tempoA-XIXCredo = \tempoMarkup "[Allegro]"
-% tempoA-XIXEtIncarnatus = \tempoMarkup "Andante"
-%   tempoA-XIXSepultus= \tempoMarkup "Adagio"
-% tempoA-XIXEtResurrexit = \tempoMarkup "Allegro"
-%   tempoA-XIXMortuorum = \tempoMarkup "Largo"
-%   tempoA-XIXEtVitam = \tempoMarkup "Allegro"
+tempoA-XIXCredo = \tempoMarkup "[Allegro]"
+  tempoA-XIXEtIncarnatus = \tempoMarkup "Andante"
+  tempoA-XIXEtResurrexit = \tempoMarkup "[Allegro]"
+  tempoA-XIXEtVitam = \tempoTitle "Et vitam"
 
-% tempoA-XIXSanctus = \tempoMarkup "Largo"
-%   tempoA-XIXPleni = \tempoMarkup "[Allegro]"
-%   tempoA-XIXOsanna = \tempoTitleMarkup "Osanna" "[Allegro]"
+tempoA-XIXSanctus = \tempoMarkup "Largo"
+  tempoA-XIXPleni = \tempoMarkup "Allegro"
 
-% tempoA-XIXBenedictus = \tempoMarkup "Andante"
+tempoA-XIXBenedictus = \tempoMarkup "Andante"
+tempoA-XIXOsanna = \tempoMarkup "[Allegro]"
 
-% tempoA-XIXAgnus = \tempoMarkup "Largo"
-%   tempoA-XIXDona = \tempoMarkup "Allegro"
+tempoA-XIXAgnus = \tempoMarkup "Largo"
+  tempoA-XIXDona = \tempoMarkup "Allegro"
 
 \include "notes/clno1.ly"
 \include "notes/clno2.ly"

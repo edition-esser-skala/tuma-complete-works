@@ -29,5 +29,16 @@ toe: |
     & 143 & clno 2 & 1st \halfNote\ in \A1 and \B1: c″2 \\
     & 237 & vl     & bar in \A1: \wholeNoteRest \\
     & 244 & S      & 2nd \eighthNote\ in \A1 and \B1: a′8 \\
+  3 & 16  & vl 1   & last \eighthNote\ in \A1 and \B1: b′8 \\
+    & 56  & B      & 4th \quarterNote\ in \A1 and \B1: a8–g8 \\
+    & 63  & vl 2   & 2nd/3rd \quarterNote\ in \A1 and \B1: d′2 \\
+  4 & 7   & trb 1  & 2nd \quarterNote\ in \B1: a′8–a′8 \\
+    & 12  & tr, timp & bar missing in \A1 and \B1 \\
+    & 30  & clno 1, vl 1 & 2nd/3rd \quarterNote\ in \A1 and \B1: b″2 \\
+    & 26  & B      & 1st \halfNote\ in \A1 and \B1: e2 \\
+    & 46  & vl 2   & 4th \quarterNote\ in \A1 and \B1: f′4 \\
+    & 54  & trb 2  & 2nd \halfNote\ in \B1: c′4.–b16–a16 \\
+  6 & 13  & A      & 2nd \halfNote\ in \A1: \quaverRest–g′4–g′8 \\
+    & 13  & T      & 2nd \halfNote\ in \A1: \quaverRest–a4–a8 \\
 parts:
   ottoni: Clarino I, II in C\\Tromba I, II in C\\Timpani in C–G

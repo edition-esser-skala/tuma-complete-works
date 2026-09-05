@@ -9,21 +9,13 @@
   \bookpart {
     \section "1" "Kyrie"
     \addTocEntry
+    \paper { system-count = #7 }
     \score {
       <<
         \new Staff { \A-XIXKyrieViolinoI }
       >>
     }
-  }
-  \bookpart {
-    \subsection "Christe eleison"
-    \addTocEntry
-    \paper { system-count = #2 }
-    \score {
-      <<
-        \new Staff { \A-XIXChristeViolinoI }
-      >>
-    }
+    \tacet "subsection" "Christe eleison"
   }
   \bookpart {
     \subsection "Kyrie eleison"
@@ -37,13 +29,22 @@
   \bookpart {
     \section "2" "Gloria"
     \addTocEntry
-    \paper { system-count = #15 }
+    \paper { system-count = #7 }
     \score {
       <<
         \new Staff { \A-XIXGloriaViolinoI }
       >>
     }
-    \tacet "subsection" "Gratias agimus tibi"
+  }
+  \bookpart {
+    \subsection "Laudamus te"
+    \addTocEntry
+    \paper { system-count = #8 }
+    \score {
+      <<
+        \new Staff { \A-XIXLaudamusViolinoI }
+      >>
+    }
   }
   \bookpart {
     \subsection "Domine Deus"
@@ -55,29 +56,28 @@
     }
   }
   \bookpart {
-    \subsection "Quoniam"
+    \subsection "Qui tollis"
     \addTocEntry
-    \paper { system-count = #15 }
+    \paper { system-count = #4 }
     \score {
       <<
-        \new Staff { \A-XIXQuoniamViolinoIeII }
+        \new Staff { \A-XIXQuiTollisViolinoI }
       >>
     }
+    \tacet "subsection" "Suscipe"
   }
   \bookpart {
-    \subsection "Cum Sancto Spiritu"
+    \subsection "Qui sedes"
     \addTocEntry
-    \paper { system-count = #6 }
     \score {
       <<
-        \new Staff { \A-XIXCumSanctoViolinoI }
+        \new Staff { \A-XIXQuiSedesViolinoI }
       >>
     }
   }
   \bookpart {
     \section "3" "Credo"
     \addTocEntry
-    \paper { system-count = #6 }
     \score {
       <<
         \new Staff { \A-XIXCredoViolinoI }
@@ -85,27 +85,9 @@
     }
   }
   \bookpart {
-    \subsection "Et incarnatus est"
-    \addTocEntry
-    \paper { system-count = #2 }
-    \score {
-      <<
-        \new Staff { \A-XIXEtIncarnatusViolinoI }
-      >>
-    }
-  }
-  \bookpart {
-    \subsection "Et resurrexit"
-    \addTocEntry
-    \score {
-      <<
-        \new Staff { \A-XIXEtResurrexitViolinoI }
-      >>
-    }
-  }
-  \bookpart {
     \section "4" "Sanctus"
     \addTocEntry
+    \paper { system-count = #5 }
     \score {
       <<
         \new Staff { \A-XIXSanctusViolinoI }
@@ -115,10 +97,20 @@
   \bookpart {
     \section "5" "Benedictus"
     \addTocEntry
-    \paper { system-count = #15 }
+    \paper { system-count = #14 }
     \score {
       <<
         \new Staff { \A-XIXBenedictusViolinoIeII }
+      >>
+    }
+  }
+  \bookpart {
+    \subsection "Osanna"
+    \addTocEntry
+    \paper { system-count = #3 }
+    \score {
+      <<
+        \new Staff { \A-XIXOsannaViolinoI }
       >>
     }
   }

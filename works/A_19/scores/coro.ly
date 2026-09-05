@@ -47,7 +47,6 @@
       system-system-spacing.basic-distance = #20
       system-system-spacing.minimum-distance = #20
       systems-per-page = #6
-      system-count = #9
     }
     \score {
       <<
@@ -134,24 +133,30 @@
     }
   }
   \bookpart {
-    \subsection "Gratias agimus tibi"
+    \subsection "Laudamus te"
     \addTocEntry
     \paper {
-      system-system-spacing.basic-distance = #20
-      system-system-spacing.minimum-distance = #20
-      systems-per-page = #6
+      system-system-spacing.basic-distance = #22
+      system-system-spacing.minimum-distance = #22
+      systems-per-page = #4
     }
     \score {
       <<
         \new ChoirStaff <<
           \new Staff {
             \set Staff.instrumentName = "A"
-            \new Voice = "Alto" { \dynamicUp \A-XIXGratiasAlto }
+            \new Voice = "Alto" { \dynamicUp \A-XIXLaudamusAlto }
           }
-          \new Lyrics \lyricsto Alto \A-XIXGratiasAltoLyrics
+          \new Lyrics \lyricsto Alto \A-XIXLaudamusAltoLyrics
+
+          \new Staff {
+            \set Staff.instrumentName = "T"
+            \new Voice = "Tenore" { \dynamicUp \A-XIXLaudamusTenore }
+          }
+          \new Lyrics \lyricsto Tenore \A-XIXLaudamusTenoreLyrics
         >>
-        \new Staff { \A-XIXGratiasOrgano }
-        \new FiguredBass { \A-XIXGratiasBassFigures }
+        \new Staff { \A-XIXLaudamusOrgano }
+        \new FiguredBass { \A-XIXLaudamusBassFigures }
       >>
     }
   }
@@ -191,59 +196,100 @@
     }
   }
   \bookpart {
-    \subsection "Quoniam"
-    \addTocEntry
-    \paper {
-      system-system-spacing.basic-distance = #20
-      system-system-spacing.minimum-distance = #20
-      systems-per-page = #6
-    }
-    \score {
-      <<
-        \new ChoirStaff <<
-          \new Staff {
-            \set Staff.instrumentName = "B"
-            \new Voice = "Basso" { \dynamicUp \A-XIXQuoniamBasso }
-          }
-          \new Lyrics \lyricsto Basso \A-XIXQuoniamBassoLyrics
-        >>
-        \new Staff { \A-XIXQuoniamOrgano }
-        \new FiguredBass { \A-XIXQuoniamBassFigures }
-      >>
-    }
-  }
-  \bookpart {
-    \subsection "Cum Sancto Spiritu"
+    \subsection "Qui tollis"
     \addTocEntry
     \score {
       <<
         \new ChoirStaff <<
           \new Staff {
             \set Staff.instrumentName = "S"
-            \new Voice = "Soprano" { \dynamicUp \A-XIXCumSanctoSoprano }
+            \new Voice = "Soprano" { \dynamicUp \A-XIXQuiTollisSoprano }
           }
-          \new Lyrics \lyricsto Soprano \A-XIXCumSanctoSopranoLyrics
+          \new Lyrics \lyricsto Soprano \A-XIXQuiTollisSopranoLyrics
 
           \new Staff {
             \set Staff.instrumentName = "A"
-            \new Voice = "Alto" { \dynamicUp \A-XIXCumSanctoAlto }
+            \new Voice = "Alto" { \dynamicUp \A-XIXQuiTollisAlto }
           }
-          \new Lyrics \lyricsto Alto \A-XIXCumSanctoAltoLyrics
+          \new Lyrics \lyricsto Alto \A-XIXQuiTollisAltoLyrics
 
           \new Staff {
             \set Staff.instrumentName = "T"
-            \new Voice = "Tenore" { \dynamicUp \A-XIXCumSanctoTenore }
+            \new Voice = "Tenore" { \dynamicUp \A-XIXQuiTollisTenore }
           }
-          \new Lyrics \lyricsto Tenore \A-XIXCumSanctoTenoreLyrics
+          \new Lyrics \lyricsto Tenore \A-XIXQuiTollisTenoreLyrics
 
           \new Staff {
             \set Staff.instrumentName = "B"
-            \new Voice = "Basso" { \dynamicUp \A-XIXCumSanctoBasso }
+            \new Voice = "Basso" { \dynamicUp \A-XIXQuiTollisBasso }
           }
-          \new Lyrics \lyricsto Basso \A-XIXCumSanctoBassoLyrics
+          \new Lyrics \lyricsto Basso \A-XIXQuiTollisBassoLyrics
         >>
-        \new Staff { \A-XIXCumSanctoOrgano }
-        \new FiguredBass { \A-XIXCumSanctoBassFigures }
+        \new Staff { \A-XIXQuiTollisOrgano }
+        \new FiguredBass { \A-XIXQuiTollisBassFigures }
+      >>
+    }
+  }
+  \bookpart {
+    \subsection "Suscipe"
+    \addTocEntry
+    \paper {
+      system-system-spacing.basic-distance = #22
+      system-system-spacing.minimum-distance = #22
+      systems-per-page = #4
+    }
+    \score {
+      <<
+        \new ChoirStaff <<
+          \new Staff {
+            \set Staff.instrumentName = "T"
+            \new Voice = "Tenore" { \dynamicUp \A-XIXSuscipeTenore }
+          }
+          \new Lyrics \lyricsto Tenore \A-XIXSuscipeTenoreLyrics
+
+          \new Staff {
+            \set Staff.instrumentName = "B"
+            \new Voice = "Basso" { \dynamicUp \A-XIXSuscipeBasso }
+          }
+          \new Lyrics \lyricsto Basso \A-XIXSuscipeBassoLyrics
+        >>
+        \new Staff { \A-XIXSuscipeOrgano }
+        \new FiguredBass { \A-XIXSuscipeBassFigures }
+      >>
+    }
+  }
+  \bookpart {
+    \subsection "Qui sedes"
+    \addTocEntry
+    \score {
+      <<
+        \new ChoirStaff <<
+          \new Staff {
+            \set Staff.instrumentName = "S"
+            \new Voice = "Soprano" { \dynamicUp \A-XIXQuiSedesSoprano }
+          }
+          \new Lyrics \lyricsto Soprano \A-XIXQuiSedesSopranoLyrics
+
+          \new Staff {
+            \set Staff.instrumentName = "A"
+            \new Voice = "Alto" { \dynamicUp \A-XIXQuiSedesAlto }
+          }
+          \new Lyrics \lyricsto Alto \A-XIXQuiSedesAltoLyrics
+
+          \new Staff {
+            \set Staff.instrumentName = "T"
+            \new Voice = "Tenore" { \dynamicUp \A-XIXQuiSedesTenore }
+          }
+          \new Lyrics \lyricsto Tenore \A-XIXQuiSedesTenoreLyrics
+
+          \new Staff {
+            \set Staff.instrumentName = "B"
+            \new Voice = "Basso" { \dynamicUp \A-XIXQuiSedesBasso }
+          }
+          \new Lyrics \lyricsto Basso \A-XIXQuiSedesBassoLyrics
+        >>
+        \new Staff { \A-XIXQuiSedesOrgano }
+        \new FiguredBass { \A-XIXQuiSedesBassFigures }
       >>
     }
   }
@@ -279,76 +325,6 @@
         >>
         \new Staff { \A-XIXCredoOrgano }
         \new FiguredBass { \A-XIXCredoBassFigures }
-      >>
-    }
-  }
-  \bookpart {
-    \subsection "Et incarnatus est"
-    \addTocEntry
-    \score {
-      <<
-        \new ChoirStaff <<
-          \new Staff {
-            \set Staff.instrumentName = "S"
-            \new Voice = "Soprano" { \dynamicUp \A-XIXEtIncarnatusSoprano }
-          }
-          \new Lyrics \lyricsto Soprano \A-XIXEtIncarnatusSopranoLyrics
-
-          \new Staff {
-            \set Staff.instrumentName = "A"
-            \new Voice = "Alto" { \dynamicUp \A-XIXEtIncarnatusAlto }
-          }
-          \new Lyrics \lyricsto Alto \A-XIXEtIncarnatusAltoLyrics
-
-          \new Staff {
-            \set Staff.instrumentName = "T"
-            \new Voice = "Tenore" { \dynamicUp \A-XIXEtIncarnatusTenore }
-          }
-          \new Lyrics \lyricsto Tenore \A-XIXEtIncarnatusTenoreLyrics
-
-          \new Staff {
-            \set Staff.instrumentName = "B"
-            \new Voice = "Basso" { \dynamicUp \A-XIXEtIncarnatusBasso }
-          }
-          \new Lyrics \lyricsto Basso \A-XIXEtIncarnatusBassoLyrics
-        >>
-        \new Staff { \A-XIXEtIncarnatusOrgano }
-        \new FiguredBass { \A-XIXEtIncarnatusBassFigures }
-      >>
-    }
-  }
-  \bookpart {
-    \subsection "Et resurrexit"
-    \addTocEntry
-    \score {
-      <<
-        \new ChoirStaff <<
-          \new Staff {
-            \set Staff.instrumentName = "S"
-            \new Voice = "Soprano" { \dynamicUp \A-XIXEtResurrexitSoprano }
-          }
-          \new Lyrics \lyricsto Soprano \A-XIXEtResurrexitSopranoLyrics
-
-          \new Staff {
-            \set Staff.instrumentName = "A"
-            \new Voice = "Alto" { \dynamicUp \A-XIXEtResurrexitAlto }
-          }
-          \new Lyrics \lyricsto Alto \A-XIXEtResurrexitAltoLyrics
-
-          \new Staff {
-            \set Staff.instrumentName = "T"
-            \new Voice = "Tenore" { \dynamicUp \A-XIXEtResurrexitTenore }
-          }
-          \new Lyrics \lyricsto Tenore \A-XIXEtResurrexitTenoreLyrics
-
-          \new Staff {
-            \set Staff.instrumentName = "B"
-            \new Voice = "Basso" { \dynamicUp \A-XIXEtResurrexitBasso }
-          }
-          \new Lyrics \lyricsto Basso \A-XIXEtResurrexitBassoLyrics
-        >>
-        \new Staff { \A-XIXEtResurrexitOrgano }
-        \new FiguredBass { \A-XIXEtResurrexitBassFigures }
       >>
     }
   }
@@ -399,13 +375,49 @@
       <<
         \new ChoirStaff <<
           \new Staff {
-            \set Staff.instrumentName = "S"
-            \new Voice = "Soprano" { \dynamicUp \A-XIXBenedictusSoprano }
+            \set Staff.instrumentName = "A"
+            \new Voice = "Alto" { \dynamicUp \A-XIXBenedictusAlto }
           }
-          \new Lyrics \lyricsto Soprano \A-XIXBenedictusSopranoLyrics
+          \new Lyrics \lyricsto Alto \A-XIXBenedictusAltoLyrics
         >>
         \new Staff { \A-XIXBenedictusOrgano }
         \new FiguredBass { \A-XIXBenedictusBassFigures }
+      >>
+    }
+  }
+  \bookpart {
+    \subsection "Osanna"
+    \addTocEntry
+    \paper { system-count = #3 }
+    \score {
+      <<
+        \new ChoirStaff <<
+          \new Staff {
+            \set Staff.instrumentName = "S"
+            \new Voice = "Soprano" { \dynamicUp \A-XIXOsannaSoprano }
+          }
+          \new Lyrics \lyricsto Soprano \A-XIXOsannaSopranoLyrics
+
+          \new Staff {
+            \set Staff.instrumentName = "A"
+            \new Voice = "Alto" { \dynamicUp \A-XIXOsannaAlto }
+          }
+          \new Lyrics \lyricsto Alto \A-XIXOsannaAltoLyrics
+
+          \new Staff {
+            \set Staff.instrumentName = "T"
+            \new Voice = "Tenore" { \dynamicUp \A-XIXOsannaTenore }
+          }
+          \new Lyrics \lyricsto Tenore \A-XIXOsannaTenoreLyrics
+
+          \new Staff {
+            \set Staff.instrumentName = "B"
+            \new Voice = "Basso" { \dynamicUp \A-XIXOsannaBasso }
+          }
+          \new Lyrics \lyricsto Basso \A-XIXOsannaBassoLyrics
+        >>
+        \new Staff { \A-XIXOsannaOrgano }
+        \new FiguredBass { \A-XIXOsannaBassFigures }
       >>
     }
   }

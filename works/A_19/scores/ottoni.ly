@@ -11,7 +11,6 @@
   \bookpart {
     \section "1" "Kyrie"
     \addTocEntry
-    \paper { system-count = #6 }
     \score {
       <<
         \new StaffGroup <<
@@ -37,6 +36,7 @@
         }
       >>
     }
+    \tacet "subsection" "Christe eleison"
   }
   \bookpart {
     \subsection "Kyrie eleison"
@@ -89,7 +89,7 @@
         \new Staff { \A-XIXGloriaTimpani }
       >>
     }
-    \tacet "subsection" "Gratias agimus tibi"
+    \tacet "subsection" "Laudamus te"
   }
   \bookpart {
     \subsection "Domine Deus"
@@ -116,26 +116,37 @@
         \new Staff { \A-XIXDomineTimpani }
       >>
     }
-    \tacet "subsection" "Qui tollis"
   }
   \bookpart {
-    \subsection "Quoniam"
+    \subsection "Qui tollis"
     \addTocEntry
-    \paper {
-      systems-per-page = #9
-      system-count = #15
-    }
+    \paper { system-count = #3 }
     \score {
       <<
-        \new Staff {
-          \set Staff.instrumentName = \markup \center-column { "clno" "solo" }
-          \A-XIXQuoniamClarinoSolo
+        \new StaffGroup <<
+          \new GrandStaff <<
+            \set GrandStaff.instrumentName = "clno"
+            \new Staff {
+              \set Staff.instrumentName = "1"
+              \A-XIXQuiTollisClarinoI
+            }
+            \new Staff {
+              \set Staff.instrumentName = "2"
+              \A-XIXQuiTollisClarinoII
+            }
+          >>
+        >>
+        \new Staff \with { \smallStaffDistance } {
+          \set Staff.instrumentName = \markup \center-column { "tr" "1, 2" }
+          \partCombine #'(0 . 10) \A-XIXQuiTollisTrombaI \A-XIXQuiTollisTrombaII
         }
+        \new Staff { \A-XIXQuiTollisTimpani }
       >>
     }
+    \tacet "subsection" "Suscipe"
   }
   \bookpart {
-    \subsection "Cum Sancto Spiritu"
+    \subsection "Qui sedes"
     \addTocEntry
     \score {
       <<
@@ -144,19 +155,19 @@
             \set GrandStaff.instrumentName = "clno"
             \new Staff {
               \set Staff.instrumentName = "1"
-              \A-XIXCumSanctoClarinoI
+              \A-XIXQuiSedesClarinoI
             }
             \new Staff {
               \set Staff.instrumentName = "2"
-              \A-XIXCumSanctoClarinoII
+              \A-XIXQuiSedesClarinoII
             }
           >>
         >>
         \new Staff \with { \smallStaffDistance } {
           \set Staff.instrumentName = \markup \center-column { "tr" "1, 2" }
-          \partCombine #'(0 . 10) \A-XIXCumSanctoTrombaI \A-XIXCumSanctoTrombaII
+          \partCombine #'(0 . 10) \A-XIXQuiSedesTrombaI \A-XIXQuiSedesTrombaII
         }
-        \new Staff { \A-XIXCumSanctoTimpani }
+        \new Staff { \A-XIXQuiSedesTimpani }
       >>
     }
   }
@@ -185,33 +196,6 @@
         \new Staff { \A-XIXCredoTimpani }
       >>
     }
-    \tacet "subsection" "Et incarnatus est"
-  }
-  \bookpart {
-    \subsection "Et resurrexit"
-    \addTocEntry
-    \score {
-      <<
-        \new StaffGroup <<
-          \new GrandStaff <<
-            \set GrandStaff.instrumentName = "clno"
-            \new Staff {
-              \set Staff.instrumentName = "1"
-              \A-XIXEtResurrexitClarinoI
-            }
-            \new Staff {
-              \set Staff.instrumentName = "2"
-              \A-XIXEtResurrexitClarinoII
-            }
-          >>
-        >>
-        \new Staff \with { \smallStaffDistance } {
-          \set Staff.instrumentName = \markup \center-column { "tr" "1, 2" }
-          \partCombine #'(0 . 10) \A-XIXEtResurrexitTrombaI \A-XIXEtResurrexitTrombaII
-        }
-        \new Staff { \A-XIXEtResurrexitTimpani }
-      >>
-    }
   }
   \bookpart {
     \section "4" "Sanctus"
@@ -238,8 +222,33 @@
         \new Staff { \A-XIXSanctusTimpani }
       >>
     }
-    \tacet "section" "Benedictus"
-    \markup { \vspace #3 \fontsize #3 \fill-line { "" "Osanna da capo" "" } }
+  }
+  \bookpart {
+    \subsection "Osanna"
+    \addTocEntry
+    \paper { system-count = #2 }
+    \score {
+      <<
+        \new StaffGroup <<
+          \new GrandStaff <<
+            \set GrandStaff.instrumentName = "clno"
+            \new Staff {
+              \set Staff.instrumentName = "1"
+              \A-XIXOsannaClarinoI
+            }
+            \new Staff {
+              \set Staff.instrumentName = "2"
+              \A-XIXOsannaClarinoII
+            }
+          >>
+        >>
+        \new Staff \with { \smallStaffDistance } {
+          \set Staff.instrumentName = \markup \center-column { "tr" "1, 2" }
+          \partCombine #'(0 . 10) \A-XIXOsannaTrombaI \A-XIXOsannaTrombaII
+        }
+        \new Staff { \A-XIXOsannaTimpani }
+      >>
+    }
   }
   \bookpart {
     \section "6" "Agnus Dei"

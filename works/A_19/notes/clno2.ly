@@ -188,3 +188,127 @@ A-XIXQuiSedesClarinoII = {
     e1\fermata \bar "|." %294 finis
   }
 }
+
+A-XIXCredoClarinoII = {
+  \relative c' {
+    \clef treble
+    \key c \major \time 4/4 \tempoA-XIXCredo
+    R1*4
+    r2 g'4\fE c %5
+    g g8 g g4 r
+    R1*2
+    r2 r4 d'
+    c g8 g e4 r %10
+    c'8 c g g c4 r
+    g8 g16 g g8 g g4 r
+    R1*9 %21
+    e'8 d16 c d8 g, c c r4
+    R1
+    r8 d4 d8 e4. e,8
+    g4. g8 e4 r %25
+    R1
+    r2 r4 d'
+    e8 d c4 g r
+    R1*2 %30
+    r4 d' d c \noBreak
+    g2 e\fermata \bar "||"
+    \tempoA-XIXEtIncarnatus R1*32 \noBreak %64
+    R1\fermata \bar "||" %65
+    \tempoA-XIXEtResurrexit
+      e'4\fE c8. d16 e4 c8. d16 \noBreak
+    e8 f16 e d8 c g c g4
+    e r e' c8. d16
+    e4 c8. d16 e4 r
+    r2 d4. e8 %70
+    e d d4 d r
+    R1*6 %77
+    r2 r8 d d4
+    c8 d e e d4 d8 d
+    e4 c8. d16 e4 c8 d %80
+    e c g4 e r
+    R1*16 \noBreak %97
+    R1\fermata
+    \tempoA-XIXEtVitam R1*16 %114
+    e'2\fE c4. d8 %115
+    e e d c g g c d
+    c d e d16 c g8 g c d
+    c d e d16 c g4 r
+    R1*2 %120
+    c4 g8 g g4 r
+    g4. g8 g4 c
+    g2 g4 g
+    e1\fermata \bar "|." %124 finis
+  }
+}
+
+A-XIXSanctusClarinoII = {
+  \relative c' {
+    \clef treble
+    \key c \major \time 4/4 \tempoA-XIXSanctus
+    R1*5 %5
+    r2 e'4\fE e8 e
+    e4 e8 e e4 e8 e \noBreak
+    c c c4 c2\fermata \bar "||"
+    \time 3/4 \tempoA-XIXPleni e8 d16 c g4 d'8 e \noBreak
+    c4 r r %10
+    e8 e e d16 c g4
+    c d d
+    e e d
+    e2 r4
+    R2.*11 %25
+    r4 d e
+    e d2
+    e e4
+    c4. d8 e4
+    d d2 %30
+    e e4
+    c c e
+    c c2
+    c2.\fermata \bar "|." %34 finis
+  }
+}
+
+A-XIXOsannaClarinoII = {
+  \relative c' {
+    \clef treble
+    \key c \major \time 4/4 \tempoA-XIXOsanna
+      \set Score.currentBarNumber = #39
+    g''2\fE f8 e f d
+    e d e fis g4. e8 %40
+    c4 f e8 e d c
+    g4 e g r
+    R1*9 %51
+    r2 d'2
+    c4 d g, g
+    g c g2
+    g4 g e2\fermata \bar "|." %55 finis
+  }
+}
+
+A-XIXAgnusClarinoII = {
+  \relative c' {
+    \clef treble
+    \key c \major \time 4/4 \tempoA-XIXAgnus
+    e'4\fE e8 d16 c g4 r
+    r c8 c c c c4
+    d d8 d g,4 r
+    R1*10 %13
+    r2 r8 g\fE g g
+    c c c4 c d %15
+    g,8 c c c c2 \noBreak
+    d1\fermata \bar "||"
+    \tempoA-XIXDona R1*24 %41
+    e4 c8 c d2
+    R1*2
+    c2 d %45
+    g, c
+    c g
+    R1
+    r2 d'
+    e c %50
+    d g,4 r
+    c c c2
+    g g4 g
+    e1\fermata \bar "|." %54 finis
+  }
+}

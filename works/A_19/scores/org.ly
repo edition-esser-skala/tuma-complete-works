@@ -9,6 +9,7 @@
   \bookpart {
     \section "1" "Kyrie"
     \addTocEntry
+    \paper { system-count = #13 }
     \score {
       <<
         \new Staff { \A-XIXKyrieOrgano }
@@ -29,7 +30,6 @@
   \bookpart {
     \subsection "Kyrie eleison"
     \addTocEntry
-    \paper { system-count = #15 }
     \score {
       <<
         \new Staff { \A-XIXKyrieFugaOrgano }
@@ -40,6 +40,7 @@
   \bookpart {
     \section "2" "Gloria"
     \addTocEntry
+    \paper { system-count = #5 }
     \score {
       <<
         \new Staff { \A-XIXGloriaOrgano }
@@ -48,12 +49,12 @@
     }
   }
   \bookpart {
-    \subsection "Gratias agimus tibi"
+    \subsection "Laudamus te"
     \addTocEntry
     \score {
       <<
-        \new Staff { \A-XIXGratiasOrgano }
-        \new FiguredBass { \A-XIXGratiasBassFigures }
+        \new Staff { \A-XIXLaudamusOrgano }
+        \new FiguredBass { \A-XIXLaudamusBassFigures }
       >>
     }
   }
@@ -68,22 +69,34 @@
     }
   }
   \bookpart {
-    \subsection "Quoniam"
+    \subsection "Qui tollis"
     \addTocEntry
+    \paper { system-count = #4 }
     \score {
       <<
-        \new Staff { \A-XIXQuoniamOrgano }
-        \new FiguredBass { \A-XIXQuoniamBassFigures }
+        \new Staff { \A-XIXQuiTollisOrgano }
+        \new FiguredBass { \A-XIXQuiTollisBassFigures }
       >>
     }
   }
   \bookpart {
-    \subsection "Cum Sancto Spiritu"
+    \subsection "Suscipe"
+    \addTocEntry
+    \paper { system-count = #6 }
+    \score {
+      <<
+        \new Staff { \A-XIXSuscipeOrgano }
+        \new FiguredBass { \A-XIXSuscipeBassFigures }
+      >>
+    }
+  }
+  \bookpart {
+    \subsection "Qui sedes"
     \addTocEntry
     \score {
       <<
-        \new Staff { \A-XIXCumSanctoOrgano }
-        \new FiguredBass { \A-XIXCumSanctoBassFigures }
+        \new Staff { \A-XIXQuiSedesOrgano }
+        \new FiguredBass { \A-XIXQuiSedesBassFigures }
       >>
     }
   }
@@ -98,30 +111,9 @@
     }
   }
   \bookpart {
-    \subsection "Et incarnatus est"
-    \addTocEntry
-    \paper { system-count = #7 }
-    \score {
-      <<
-        \new Staff { \A-XIXEtIncarnatusOrgano }
-        \new FiguredBass { \A-XIXEtIncarnatusBassFigures }
-      >>
-    }
-  }
-  \bookpart {
-    \subsection "Et resurrexit"
-    \addTocEntry
-    \score {
-      <<
-        \new Staff { \A-XIXEtResurrexitOrgano }
-        \new FiguredBass { \A-XIXEtResurrexitBassFigures }
-      >>
-    }
-  }
-  \bookpart {
     \section "4" "Sanctus"
     \addTocEntry
-    \paper { system-count = #7 }
+    \paper { system-count = #5 }
     \score {
       <<
         \new Staff { \A-XIXSanctusOrgano }
@@ -136,6 +128,17 @@
       <<
         \new Staff { \A-XIXBenedictusOrgano }
         \new FiguredBass { \A-XIXBenedictusBassFigures }
+      >>
+    }
+  }
+  \bookpart {
+    \subsection "Osanna"
+    \addTocEntry
+    \paper { system-count = #4 }
+    \score {
+      <<
+        \new Staff { \A-XIXOsannaOrgano }
+        \new FiguredBass { \A-XIXOsannaBassFigures }
       >>
     }
   }

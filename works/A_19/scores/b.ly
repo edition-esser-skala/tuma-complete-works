@@ -9,6 +9,7 @@
   \bookpart {
     \section "1" "Kyrie"
     \addTocEntry
+    \paper { system-count = #13 }
     \score {
       <<
         \new Staff { \A-XIXKyrieOrgano }
@@ -27,7 +28,6 @@
   \bookpart {
     \subsection "Kyrie eleison"
     \addTocEntry
-    \paper { system-count = #15 }
     \score {
       <<
         \new Staff { \A-XIXKyrieFugaOrgano }
@@ -37,6 +37,7 @@
   \bookpart {
     \section "2" "Gloria"
     \addTocEntry
+    \paper { system-count = #5 }
     \score {
       <<
         \new Staff { \A-XIXGloriaOrgano }
@@ -44,11 +45,11 @@
     }
   }
   \bookpart {
-    \subsection "Gratias agimus tibi"
+    \subsection "Laudamus te"
     \addTocEntry
     \score {
       <<
-        \new Staff { \A-XIXGratiasOrgano }
+        \new Staff { \A-XIXLaudamusOrgano }
       >>
     }
   }
@@ -62,20 +63,31 @@
     }
   }
   \bookpart {
-    \subsection "Quoniam"
+    \subsection "Qui tollis"
     \addTocEntry
+    \paper { system-count = #4 }
     \score {
       <<
-        \new Staff { \A-XIXQuoniamOrgano }
+        \new Staff { \A-XIXQuiTollisOrgano }
       >>
     }
   }
   \bookpart {
-    \subsection "Cum Sancto Spiritu"
+    \subsection "Suscipe"
+    \addTocEntry
+    \paper { system-count = #6 }
+    \score {
+      <<
+        \new Staff { \A-XIXSuscipeOrgano }
+      >>
+    }
+  }
+  \bookpart {
+    \subsection "Qui sedes"
     \addTocEntry
     \score {
       <<
-        \new Staff { \A-XIXCumSanctoOrgano }
+        \new Staff { \A-XIXQuiSedesOrgano }
       >>
     }
   }
@@ -89,28 +101,9 @@
     }
   }
   \bookpart {
-    \subsection "Et incarnatus est"
-    \addTocEntry
-    \paper { system-count = #7 }
-    \score {
-      <<
-        \new Staff { \A-XIXEtIncarnatusOrgano }
-      >>
-    }
-  }
-  \bookpart {
-    \subsection "Et resurrexit"
-    \addTocEntry
-    \score {
-      <<
-        \new Staff { \A-XIXEtResurrexitOrgano }
-      >>
-    }
-  }
-  \bookpart {
     \section "4" "Sanctus"
     \addTocEntry
-    \paper { system-count = #7 }
+    \paper { system-count = #5 }
     \score {
       <<
         \new Staff { \A-XIXSanctusOrgano }
@@ -123,6 +116,16 @@
     \score {
       <<
         \new Staff { \A-XIXBenedictusOrgano }
+      >>
+    }
+  }
+  \bookpart {
+    \subsection "Osanna"
+    \addTocEntry
+    \paper { system-count = #4 }
+    \score {
+      <<
+        \new Staff { \A-XIXOsannaOrgano }
       >>
     }
   }
