@@ -1,5 +1,12 @@
 \version "2.24.2"
 
+\layout {
+  \context {
+    \Staff
+    \accidentalStyle modern
+  }
+}
+
 tempoxxx = \tempoMarkup "Allegro moderato"
 
 \include "notes/cnto.ly"
