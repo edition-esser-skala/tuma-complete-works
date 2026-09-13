@@ -1,0 +1,18 @@
+title: Alma Redemptoris mater
+id: TumW E.1.6
+genre: antiphon
+scoring: 2 B (solo), 2 vl, b, org
+ark: 68748/e1fite16
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: CZ-Bm
+    shelfmark: A 13068
+    license: public domain
+    principal: true
+toe: |
+  13 & vl 1 & 3rd \sixteenthNote\ in \B1: b′16 \\
+  23 & vl 1 & 6th/7th \eighthNote\ in \B1: f′8–e′8 \\
+  30 & B 2  & 2nd/3rd \sixteenthNote\ in \B1: d16–e16 \\
+  49 & vl 2 & 2nd \eighthNote\ in \B1: b′8 \\
+  49 & org  & 4th \quarterNote\ in \B1: f8–d8 \\
